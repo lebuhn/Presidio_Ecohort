@@ -1,0 +1,269 @@
+---
+title: "Count Data Analysis with GLM"
+author: "Data Analyst"
+date: "April 30, 2025"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    highlight: tango
+    code_folding: show
+---
+
+```{r setup, include=FALSE}
+# Set global chunk options
+# Hide messages and warnings by default, but display code and results
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+## Introduction
+
+This R Markdown document analyzes count data from an ecological experiment. We'll evaluate the effect of different treatments on species counts across time using generalized linear models (GLMs), which are appropriate for count data.
+
+The dataset contains the following variables:
+- **Block**: Experimental block (spatial replication)
+- **Treatment**: Experimental treatment applied
+- **Date**: Date of observation
+- **species**: Species identifier
+- **count**: Number of individuals counted (response variable)
+
+## Data Preparation
+
+First, we'll load the necessary packages and import the data.
+
+```{r load-libraries}
+# Load necessary libraries for data analysis and statistical modeling
+# These packages provide essential functions for working with and analyzing the dataset
+library(tidyverse)  # For data manipulation and visualization
+library(lme4)       # For mixed effects models
+library(car)        # For Anova function 
+library(emmeans)    # For estimated marginal means (post-hoc tests)
+```
+
+```{r load-data}
+# Read the data file into R and store it in an object called 'data'
+# You'll need to replace this with the actual path to your data file
+data <- read.csv("your_data.csv")
+
+# Examine the structure and summary statistics of the dataset
+# This helps understand variable types and distributions before modeling
+str(data)
+summary(data)
+```
+
+```{r data-prep}
+# Convert the Date column to R's Date format for proper time-based analysis
+data$Date <- as.Date(data$Date)
+
+# Convert categorical variables to factors
+# R needs to know these are categorical for proper model specification
+data$Block <- as.factor(data$Block)
+data$Treatment <- as.factor(data$Treatment)
+data$species <- as.factor(data$species)
+```
+
+## Exploratory Data Analysis
+
+Before building models, it's important to visualize the data to understand patterns and relationships.
+
+```{r time-plot}
+# Create a visualization of counts over time by treatment
+# This helps identify temporal patterns and treatment differences
+ggplot(data, aes(x = Date, y = count, color = Treatment)) +
+  geom_point() +  # Plot individual data points
+  geom_smooth(method = "loess") +  # Add smoothed trendlines for each treatment
+  theme_bw() +  # Use a clean black and white theme for clarity
+  labs(title = "Count over time by treatment",
+       x = "Date", 
+       y = "Count")
+```
+
+```{r species-plot}
+# Create a boxplot to visualize species distribution by treatment
+# This shows how counts vary across species and treatments
+ggplot(data, aes(x = species, y = count, fill = Treatment)) +
+  geom_boxplot() +  # Create boxplots to show distributions
+  theme_bw() +  # Use clean black and white theme
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +  # Rotate x-axis labels for better readability
+  labs(title = "Count by species and treatment",
+       x = "Species", 
+       y = "Count")
+```
+
+## Model Fitting
+
+Count data typically follows a Poisson distribution, but ecological count data often shows overdispersion (variance greater than mean). We'll first fit a Poisson model, then check for overdispersion, and switch to a negative binomial model if needed.
+
+```{r poisson-model}
+# Fit a Poisson GLM as the initial model for count data
+# Poisson distribution is commonly used for count data
+model_poisson <- glm(count ~ Treatment * Date * species, 
+                    family = poisson(link = "log"), 
+                    data = data)
+
+# Check for overdispersion, which is common in ecological count data
+# Overdispersion occurs when variance exceeds the mean
+dispersion_stat <- sum(residuals(model_poisson, type = "pearson")^2) / df.residual(model_poisson)
+print(paste("Dispersion statistic:", round(dispersion_stat, 2)))
+```
+
+```{r final-model}
+# Conditional section to handle overdispersion if present
+# If dispersion > 1.2, use negative binomial instead of Poisson
+if(dispersion_stat > 1.2) {
+  # Load MASS package which contains the negative binomial function
+  # This package provides functions for more complex probability distributions
+  library(MASS)
+  
+  # Fit negative binomial model which can handle overdispersed count data
+  # This model adds a parameter to account for extra variance
+  model_nb <- glm.nb(count ~ Treatment * Date * species, data = data)
+  
+  # Set the negative binomial model as our final model
+  # This will be used for inference if overdispersion is detected
+  final_model <- model_nb
+  cat("Using negative binomial model due to overdispersion\n")
+} else {
+  # If no significant overdispersion, continue with the Poisson model
+  # In this case, the simpler Poisson model is adequate
+  final_model <- model_poisson
+  cat("Using Poisson model (no significant overdispersion)\n")
+}
+
+# Display detailed model results
+# This shows parameter estimates, standard errors, and p-values
+summary(final_model)
+```
+
+## Statistical Tests
+
+Now we'll conduct formal statistical tests to evaluate the significance of our predictors.
+
+```{r anova}
+# Conduct Type III ANOVA to test significance of main effects and interactions
+# Type III tests each effect after controlling for all other effects
+Anova(final_model, type = "III")
+```
+
+## Mixed Effects Model
+
+If the blocks in the experiment represent random sampling units, we should use a mixed effects model with Block as a random effect.
+
+```{r mixed-model, eval=TRUE}
+# Fit a mixed-effects model if Block should be treated as a random effect
+# This accounts for non-independence of observations within blocks
+mixed_model <- glmer(count ~ Treatment * Date * species + (1|Block), 
+                    family = poisson, 
+                    data = data)
+
+# Check if the mixed model converged properly
+# Convergence issues are common in complex mixed models
+if(is.null(mixed_model@optinfo$conv$lme4$messages)) {
+  # If no convergence warnings, proceed with mixed model analysis
+  # This indicates the model fitting was successful
+  cat("Mixed effects model converged successfully\n")
+  
+  # Display detailed results of the mixed effects model
+  # Shows fixed effects, random effects, and other parameters
+  summary(mixed_model)
+  
+  # Conduct Type III ANOVA for the mixed model
+  # Tests significance of effects in the mixed model framework
+  car::Anova(mixed_model, type = "III")
+} else {
+  # If convergence issues occurred, fall back to the fixed effects model
+  # This ensures we can still make valid inferences
+  cat("Mixed effects model had convergence issues. Using fixed effects model instead.\n")
+}
+```
+
+## Post-hoc Analysis
+
+If significant effects are found, we need to conduct post-hoc tests to understand specific differences between treatment levels.
+
+```{r posthoc}
+# Conduct post-hoc tests to compare treatment levels
+# These provide pairwise comparisons with appropriate p-value adjustments
+emmeans_result <- emmeans(final_model, pairwise ~ Treatment)
+print(emmeans_result)
+
+# Calculate estimated marginal means for the Treatment by species interaction
+# This shows how treatment effects might vary across species
+emmeans_interaction <- emmeans(final_model, ~ Treatment | species)
+print(emmeans_interaction)
+```
+
+## Model Predictions
+
+Visualizing model predictions helps interpret complex interactions between predictors.
+
+```{r predictions}
+# Create a grid of values for prediction from the model
+# This prepares data for visualizing model predictions
+pred_data <- expand.grid(
+  Treatment = unique(data$Treatment),  # Include all treatment levels
+  Date = seq(min(data$Date), max(data$Date), length.out = 30),  # Create a sequence of dates
+  species = unique(data$species)  # Include all species
+)
+
+# Add Block variable to prediction data
+# Using the first block level for consistency in predictions
+pred_data$Block <- levels(data$Block)[1]
+
+# Generate model predictions on the response scale (counts)
+# Transform log predictions back to the original count scale
+pred_data$predicted <- predict(final_model, newdata = pred_data, type = "response")
+
+# Create a visualization of model predictions over time
+# This shows expected counts for each treatment-species combination
+ggplot(pred_data, aes(x = Date, y = predicted, color = Treatment)) +
+  geom_line() +  # Connect predictions with lines
+  facet_wrap(~ species, scales = "free_y") +  # Create separate panels for each species
+  theme_bw() +  # Use clean black and white theme
+  labs(title = "Predicted counts over time by treatment and species",
+       x = "Date", 
+       y = "Predicted count")
+```
+
+## Model Diagnostics
+
+Checking model assumptions is crucial for valid inference.
+
+```{r diagnostics}
+# Check model diagnostics with standard diagnostic plots
+# These plots help assess if model assumptions are met
+par(mfrow = c(2, 2))  # Set up a 2x2 grid of plots
+plot(final_model)  # Create diagnostic plots for the final model
+```
+
+```{r model-fit}
+# Define a function to extract model fit statistics
+# This collects key metrics to evaluate model performance
+get_model_fit <- function(model) {
+  list(
+    AIC = AIC(model),  # Akaike Information Criterion - lower is better
+    BIC = BIC(model),  # Bayesian Information Criterion - lower is better
+    deviance = deviance(model),  # Model deviance - measure of fit
+    df.residual = df.residual(model)  # Degrees of freedom remaining
+  )
+}
+
+# Print the model fit statistics for the final model
+# These help assess the overall quality of the model
+print(get_model_fit(final_model))
+```
+
+## Conclusion
+
+This analysis evaluated the effect of Treatment on species counts across time using generalized linear models appropriate for count data. The main findings include:
+
+1. [Insert key findings after running the analysis with your actual data]
+2. [Comment on which treatments had significant effects]
+3. [Describe any temporal patterns observed]
+4. [Note differences in treatment effects across species if present]
+
+## References
+
+- Zuur, A. F., Ieno, E. N., Walker, N. J., Saveliev, A. A., & Smith, G. M. (2009). Mixed effects models and extensions in ecology with R. Springer.
+- Ver Hoef, J. M., & Boveng, P. L. (2007). Quasi-Poisson vs. negative binomial regression: how should we model overdispersed count data? Ecology, 88(11), 2766-2772.
