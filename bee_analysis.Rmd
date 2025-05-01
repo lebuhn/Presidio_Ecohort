@@ -1,6 +1,6 @@
 ---
 title: "Count Data Analysis with GLM"
-author: "Data Analyst"
+author: "Diony Gamoso"
 date: "April 30, 2025"
 output: 
   html_document:
@@ -19,14 +19,14 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 
 ## Introduction
 
-This R Markdown document analyzes count data from an ecological experiment. We'll evaluate the effect of different treatments on species counts across time using generalized linear models (GLMs), which are appropriate for count data.
+This R Markdown document analyzes Count data from an ecological experiment. We'll evaluate the effect of different treatments on species Counts across time using generalized linear models (GLMs), which are appropriate for Count data.
 
 The dataset contains the following variables:
 - **Block**: Experimental block (spatial replication)
 - **Treatment**: Experimental treatment applied
 - **Date**: Date of observation
 - **species**: Species identifier
-- **count**: Number of individuals counted (response variable)
+- **Count**: Number of individuals Counted (response variable)
 
 ## Data Preparation
 
@@ -39,28 +39,59 @@ library(tidyverse)  # For data manipulation and visualization
 library(lme4)       # For mixed effects models
 library(car)        # For Anova function 
 library(emmeans)    # For estimated marginal means (post-hoc tests)
+library(readxl)     # For reading Excel files
+library(dplyr)      # For data manipulation and joins
+
 ```
 
 ```{r load-data}
-# Read the data file into R and store it in an object called 'data'
-# You'll need to replace this with the actual path to your data file
-data <- read.csv("your_data.csv")
 
-# Examine the structure and summary statistics of the dataset
-# This helps understand variable types and distributions before modeling
-str(data)
-summary(data)
+# Read in the datasets
+insect_data <- read.csv("./data/raw/2024InsectData.csv")
+flower_data <- read_excel("./data/raw/2024FlowerData.xlsx")
+specimen_data <- read_excel("./data/raw/2024Specimens_Prelim_ID.xlsx")
+
+# Examine the structure of each dataset to confirm column names
+str(insect_data)
+str(flower_data)
+str(specimen_data)
+
+# Join insect data with flower data using DateBlkTrtmnt key
+insect_flower_joined <- insect_data %>%
+  left_join(flower_data, by = "DateBlkTrtmnt")
+
+# Join insect data with specimen data (Concat_DBT_sp_num matches DG_Spec_ID_code)
+insect_specimen_joined <- insect_data %>%
+  left_join(specimen_data, by = c("Concat_DBT_sp_num" = "DG_Spec_ID_code"))
+
+# Create a comprehensive dataset joining all three tables
+# First join insect and flower data, then join with specimen data
+all_data_joined <- insect_data %>%
+  left_join(flower_data, by = "DateBlkTrtmnt") %>%
+  left_join(specimen_data, by = c("Concat_DBT_sp_num" = "DG_Spec_ID_code"))
+
+#  Save the joined datasets
+write_csv(insect_flower_joined, "insect_flower_joined.csv")
+write_csv(insect_specimen_joined, "insect_specimen_joined.csv")
+write_csv(all_data_joined, "all_data_joined.csv")
+
+
+data<-insect_specimen_joined %>%
+    select(Date, Block, Treatment, CountType, Insect.type, Jaime_Genus_ID.y, Jaime_Species_ID.y, Jaime_GenusSpeciesID.y, Jaime_Sex_ID.y, Count) %>% # Select relevant columns
+  filter(!is.na(Count)) %>%  # Remove rows with missing Counts
+  # Filter out rows where CountType is "snapshot"
+  filter(CountType != "snapshot") %>%
+  mutate(Date = as.Date(Date, format = "%d%b%Y"))  # Convert Date to Date type
+  
 ```
 
 ```{r data-prep}
-# Convert the Date column to R's Date format for proper time-based analysis
-data$Date <- as.Date(data$Date)
 
 # Convert categorical variables to factors
 # R needs to know these are categorical for proper model specification
 data$Block <- as.factor(data$Block)
 data$Treatment <- as.factor(data$Treatment)
-data$species <- as.factor(data$species)
+#data$species <- as.factor(data$species)
 ```
 
 ## Exploratory Data Analysis
@@ -68,9 +99,9 @@ data$species <- as.factor(data$species)
 Before building models, it's important to visualize the data to understand patterns and relationships.
 
 ```{r time-plot}
-# Create a visualization of counts over time by treatment
+# Create a visualization of Counts over time by treatment
 # This helps identify temporal patterns and treatment differences
-ggplot(data, aes(x = Date, y = count, color = Treatment)) +
+ggplot(data, aes(x = Date, y = Count, color = Treatment)) +
   geom_point() +  # Plot individual data points
   geom_smooth(method = "loess") +  # Add smoothed trendlines for each treatment
   theme_bw() +  # Use a clean black and white theme for clarity
@@ -79,63 +110,95 @@ ggplot(data, aes(x = Date, y = count, color = Treatment)) +
        y = "Count")
 ```
 
-```{r species-plot}
-# Create a boxplot to visualize species distribution by treatment
-# This shows how counts vary across species and treatments
-ggplot(data, aes(x = species, y = count, fill = Treatment)) +
-  geom_boxplot() +  # Create boxplots to show distributions
-  theme_bw() +  # Use clean black and white theme
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +  # Rotate x-axis labels for better readability
-  labs(title = "Count by species and treatment",
-       x = "Species", 
-       y = "Count")
+
 ```
 
 ## Model Fitting
 
-Count data typically follows a Poisson distribution, but ecological count data often shows overdispersion (variance greater than mean). We'll first fit a Poisson model, then check for overdispersion, and switch to a negative binomial model if needed.
+Count data typically follows a Poisson distribution, but ecological Count data often shows overdispersion (variance greater than mean). We'll first fit a Poisson model, then check for overdispersion, and switch to a negative binomial model if needed.
 
 ```{r poisson-model}
-# Fit a Poisson GLM as the initial model for count data
-# Poisson distribution is commonly used for count data
-model_poisson <- glm(count ~ Treatment * Date * species, 
+# Fit a Poisson GLM as the initial model for Count data
+# Poisson distribution is commonly used for Count data, include Block as a Fixed Effect
+model_poisson_block_fixed <- glm(Count ~ Treatment * Date + Block , # Include interaction between Treatment and Date
                     family = poisson(link = "log"), 
                     data = data)
 
-# Check for overdispersion, which is common in ecological count data
-# Overdispersion occurs when variance exceeds the mean
+# Check for overdispersion, which is common in ecological Count data
+# Overdispersion occurs when variance exceeds the mean, if dispersion > 1.2, use negative binomial instead of Poisson
 dispersion_stat <- sum(residuals(model_poisson, type = "pearson")^2) / df.residual(model_poisson)
 print(paste("Dispersion statistic:", round(dispersion_stat, 2)))
-```
 
-```{r final-model}
-# Conditional section to handle overdispersion if present
-# If dispersion > 1.2, use negative binomial instead of Poisson
-if(dispersion_stat > 1.2) {
-  # Load MASS package which contains the negative binomial function
-  # This package provides functions for more complex probability distributions
-  library(MASS)
+# Summary of the model
+summary(model_poisson_block_fixed)
+
+# Model 2: Include Block as an interaction with Treatment
+# This allows for treatment effects to vary across blocks
+model_poisson_block_interaction <- glm(Count ~ Treatment * Date + Treatment * Block, 
+                                      family = poisson(link = "log"), 
+                                      data = data)
+
+# Summary of the model with block interaction
+summary(model_poisson_block_interaction)
   
-  # Fit negative binomial model which can handle overdispersed count data
-  # This model adds a parameter to account for extra variance
-  model_nb <- glm.nb(count ~ Treatment * Date * species, data = data)
-  
-  # Set the negative binomial model as our final model
-  # This will be used for inference if overdispersion is detected
-  final_model <- model_nb
-  cat("Using negative binomial model due to overdispersion\n")
-} else {
-  # If no significant overdispersion, continue with the Poisson model
-  # In this case, the simpler Poisson model is adequate
-  final_model <- model_poisson
-  cat("Using Poisson model (no significant overdispersion)\n")
-}
-
-# Display detailed model results
-# This shows parameter estimates, standard errors, and p-values
-summary(final_model)
 ```
+##Model results
 
+Main Effects
+
+
+Treatment effects:
+
+Both "h" treatment (145.4) and "nh" treatment (143.6) show significant positive effects (p < 0.05), indicating higher insect counts compared to the control treatment.
+
+
+Date effect:
+
+The significant positive Date coefficient (0.006892) suggests that insect counts generally increase over time across all treatments.
+
+
+Block effects:
+
+Several blocks show significant differences from the reference block (likely "fsgc" or another block that doesn't appear as a significant term):
+Blocks "fosc", "lile", "poof", "wewa", and "wywe" all have significant negative coefficients, indicating lower insect counts in these blocks compared to the reference block.
+
+
+
+Interaction Effects
+
+Treatment × Date interactions:
+
+Both "h" (-0.0073) and "nh" (-0.00718) interactions are significant and negative.
+This means that while counts increase over time in the control group, the rate of increase is significantly lower in the "h" and "nh" treatment groups (the date effect is partially canceled out).
+
+
+Treatment × Block interactions:
+
+Multiple significant interactions, particularly for "h" treatment, suggest that treatment effects vary across blocks.
+For example, the "h" interaction (2.704) is positive and significant, indicating that the "h" treatment effect is stronger in the "fosc" block compared to the reference block.
+There are "NA" values for some interactions, indicating singularities (perfect collinearity), likely because the reference block and treatment combination contains no observations.
+
+
+
+Model Fit
+
+The residual deviance (230.08) is much lower than the null deviance (342.34), suggesting the model explains a substantial portion of the variation.
+The AIC is 1635.1, which can be used to compare this model with alternative models.
+78 observations were deleted due to missingness, which might affect your results.
+
+Key Takeaways
+
+Both treatments ("h" and "nh") significantly increase insect counts compared to the control.
+There's a general trend of increasing counts over time.
+The effect of treatments diminishes over time (negative Treatment interactions).
+There's substantial spatial variation (block effects), and treatment effectiveness varies by location (Treatment interactions).
+The model doesn't show signs of severe overdispersion since the dispersion parameter is set to 1 for the Poisson family.
+
+To improve your analysis, you might consider:
+
+Checking for overdispersion more explicitly
+Examining treatment effects at specific time points of interest
+Visualizing the interaction effects to better understand how treatments perform across different blocks
 ## Statistical Tests
 
 Now we'll conduct formal statistical tests to evaluate the significance of our predictors.
@@ -143,7 +206,7 @@ Now we'll conduct formal statistical tests to evaluate the significance of our p
 ```{r anova}
 # Conduct Type III ANOVA to test significance of main effects and interactions
 # Type III tests each effect after controlling for all other effects
-Anova(final_model, type = "III")
+Anova(model_poisson_block_interacton, type = "III")
 ```
 
 ## Mixed Effects Model
@@ -152,8 +215,8 @@ If the blocks in the experiment represent random sampling units, we should use a
 
 ```{r mixed-model, eval=TRUE}
 # Fit a mixed-effects model if Block should be treated as a random effect
-# This accounts for non-independence of observations within blocks
-mixed_model <- glmer(count ~ Treatment * Date * species + (1|Block), 
+# This acCounts for non-independence of observations within blocks
+mixed_model <- glmer(Count ~ Treatment * Date  + (1|Block), 
                     family = poisson, 
                     data = data)
 
@@ -188,10 +251,7 @@ If significant effects are found, we need to conduct post-hoc tests to understan
 emmeans_result <- emmeans(final_model, pairwise ~ Treatment)
 print(emmeans_result)
 
-# Calculate estimated marginal means for the Treatment by species interaction
-# This shows how treatment effects might vary across species
-emmeans_interaction <- emmeans(final_model, ~ Treatment | species)
-print(emmeans_interaction)
+
 ```
 
 ## Model Predictions
@@ -211,19 +271,19 @@ pred_data <- expand.grid(
 # Using the first block level for consistency in predictions
 pred_data$Block <- levels(data$Block)[1]
 
-# Generate model predictions on the response scale (counts)
-# Transform log predictions back to the original count scale
+# Generate model predictions on the response scale (Counts)
+# Transform log predictions back to the original Count scale
 pred_data$predicted <- predict(final_model, newdata = pred_data, type = "response")
 
 # Create a visualization of model predictions over time
-# This shows expected counts for each treatment-species combination
+# This shows expected Counts for each treatment-species combination
 ggplot(pred_data, aes(x = Date, y = predicted, color = Treatment)) +
   geom_line() +  # Connect predictions with lines
   facet_wrap(~ species, scales = "free_y") +  # Create separate panels for each species
   theme_bw() +  # Use clean black and white theme
-  labs(title = "Predicted counts over time by treatment and species",
+  labs(title = "Predicted Counts over time by treatment and species",
        x = "Date", 
-       y = "Predicted count")
+       y = "Predicted Count")
 ```
 
 ## Model Diagnostics
@@ -256,7 +316,7 @@ print(get_model_fit(final_model))
 
 ## Conclusion
 
-This analysis evaluated the effect of Treatment on species counts across time using generalized linear models appropriate for count data. The main findings include:
+This analysis evaluated the effect of Treatment on species Counts across time using generalized linear models appropriate for Count data. The main findings include:
 
 1. [Insert key findings after running the analysis with your actual data]
 2. [Comment on which treatments had significant effects]
@@ -266,4 +326,4 @@ This analysis evaluated the effect of Treatment on species counts across time us
 ## References
 
 - Zuur, A. F., Ieno, E. N., Walker, N. J., Saveliev, A. A., & Smith, G. M. (2009). Mixed effects models and extensions in ecology with R. Springer.
-- Ver Hoef, J. M., & Boveng, P. L. (2007). Quasi-Poisson vs. negative binomial regression: how should we model overdispersed count data? Ecology, 88(11), 2766-2772.
+- Ver Hoef, J. M., & Boveng, P. L. (2007). Quasi-Poisson vs. negative binomial regression: how should we model overdispersed Count data? Ecology, 88(11), 2766-2772.

@@ -1,0 +1,1200 @@
+Initials,DateBlkTrtmnt,Date,Block,Treatment,CountType,Insect.type,Concat_DBT_sp_num,DG_Spec_ID_code,Jaime_Family_ID.x,Jaime_Genus_ID.x,Jaime_Species_ID.x,Jaime_GenusSpeciesID.x,Jaime_Sex_ID.x,PlantCode.x,InsectGenus,InsectSpecies,TypeGenusSpeInsect,PhotoPacket,Idnotes,Sex,Count,PlantGenus,PlantSpecies,Pollen_Nectar,Idnumber,captured.,Notes.x,Jaime_Family_ID.y,Jaime_Genus_ID.y,Jaime_Species_ID.y,Jaime_GenusSpeciesID.y,Jaime_Sex_ID.y,PlantCode.y,DGPrelimFam,DGPrelimGenus,DGPrelimSp,DGPrelimGenSp,DGPrelimSex,...13,Notes.y
+AD,22Jul2024stavh,22Jul2024,stav,h,snapshot,Wasp,22Jul2024stavh,,,,,,,,,,Wasp  ,,,,1,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,snapshot,Bee,22Jul2024stavh,,,,,,,,Bombus,,Bee Bombus ,,,,3,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,snapshot,Bee,22Jul2024stavh,,,,,,,,Bombus,,Bee Bombus ,,,,1,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N1,Bee,22Jul2024stavhp1,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,22Jul2024stavHp1,"yellow T4, no corbicula, yellow underneath, shaggy ",male,1,Horkelia,californica,,p1,y,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N1,Bee,22Jul2024stavhp2,,,,,,,,Bobmus,vos/calig,Bee Bobmus vos/calig,22Jul2024stavHp2,"yellow T4, no corbicula, yellow underneath, shaggy ",male,1,Horkelia,californica,,p2,y,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N1,Bee,22Jul2024stavhp3,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,22Jul2024stavHp3,"yellow T4, 13 segments, a lot yellow underneath",male,1,Horkelia,californica,,p3,y,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N1,Bee,22Jul2024stavhp4,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,22Jul2024stavHp4,"lots of yellow underneath, shaggy, no corbicula",male,1,Horkelia,californica,,p4,y,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N1,Bee,22Jul2024stavhp5,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,22Jul2024stavHp5,"yellow underneath, 13 segments",male,1,Horkelia,californica,,p5,y,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N1,Bee,22Jul2024stavhp6,,,,,,,,Bombus,calig,Bee Bombus calig,22Jul2024stavHp6,"yellow underneath, pollen ball",female,1,Horkelia,californica,,p6,y,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N1,Wasp,22Jul2024stavhp7,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,22Jul2024stavHp7,"no diamond, continuous yellow, short cheek, no checkmark",,1,Horkelia,californica,,p7,y,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N2,Wasp,22Jul2024stavh,,,,,,,,Vespula,,Wasp Vespula ,,,,1,Loropetalum,chinense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N2,Bee,22Jul2024stavhp8,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,22Jul2024stavHp8,"yellow underneath, no corbicula, 13 segments",male,1,Horkelia,californica,,p8,y,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Jul2024stavh,22Jul2024,stav,h,N2,Bee,22Jul2024stavh,,,,,,,,Bombus,,Bee Bombus ,,,,1,Horkelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,snapshot,Bee,24Jul2024fscgnh,,,,,,,,,,Bee  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,snapshot,Hoverfly,24Jul2024fscgnh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Hoverfly,24Jul2024fscgnhp1,,,,,,,,Helophilus?,,Hoverfly Helophilus? ,24Jul2024fscgNHp1,,,1,Achillea,millefolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Bee,24Jul2024fscgnhs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Wasp,24Jul2024fscgnhp2,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,24Jul2024fscgNHp2,,,1,,,,p2,,on leaves Fragaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Hoverfly,24Jul2024fscgnhmissed,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,missed,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Bee,24Jul2024fscgnhmissed,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,missed,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Wasp,24Jul2024fscgnhmissed,,,,,,,,,,Wasp  ,,,,1,Achillea,millefolium,,missed,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Bee,24Jul2024fscgnhs2,,,,,,,,,,Bee  ,,,,1,Eriogonum ,latifolium,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Wasp,24Jul2024fscgnhp3,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,24Jul2024fschNHp3,,,1,Achillea,millefolium,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N1,Hoverfly,24Jul2024fscgnhp4,,,,,,,,Eristalis,,Hoverfly Eristalis ,24Jul2024fscgNHp4,,,1,Achillea,millefolium,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Hoverfly,24Jul2024fscgnhp5,,,,,,,,Eristalis,,Hoverfly Eristalis ,24Jul2024fscgNHp5,,,1,Achillea,millefolium,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Bee,24Jul2024fscgnhs3,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Bee,24Jul2024fscgnhs4,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Wasp,24Jul2024fscgnhp6,,,,,,,,Pompilidae,,Wasp Pompilidae ,24Jul2024fscgNHp6,,,1,Achillea,millefolium,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Hoverfly,24Jul2024fscgnhp7,,,,,,,,Allograpta,obliqua,Hoverfly Allograpta obliqua,24Jul2024FfscgNHp7,,,1,Achillea,millefolium,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Wasp,24Jul2024fscgnhp8,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,24Jul2024fscgNHp8,,,1,Achillea,millefolium,,p8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Bee,24Jul2024fscgnhs5,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Bee,24Jul2024fscgnhs6,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Bee,24Jul2024fscgnhs7,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Eriogonum ,latifolium,,s7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgnh,24Jul2024,fscg,nh,N2,Bee,24Jul2024fscgnhs8,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawac,01Sep2024,eawa,c,snapshot,,01Sep2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawac,01Sep2024,eawa,c,N1,Wasp,01Sep2024eawacp1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,01Sep2024eawaCp1,"broken goggles, black diamond, no yellow on scape T1",,1,Pittosporum,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawac,01Sep2024,eawa,c,N2,Wasp,01Sep2024eawacp2,,,,,,,,Eumeninae,,Wasp Eumeninae ,01Sep2024eawaCp2,"fully black goggles, dark thorax",,1,Pittosporum,,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawac,01Sep2024,eawa,c,N2,Bee,01Sep2024eawacs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Pittosporum,,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawac,01Sep2024,eawa,c,N2,Wasp,01Sep2024eawacp3,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,01Sep2024eawaCp3,"no yellow on the scape, short cheek, unbroken yellow T1",,1,Pittosporum,,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawac,01Sep2024,eawa,c,N2,Hoverfly,01Sep2024eawacp4,,,,,,,,Eupeodes,fumipennis,Hoverfly Eupeodes fumipennis,01Sep2024eawaCp4,yellow T1 not connected,,1,Pittosporum,,,p4,yes,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavh,02Oct2024,stav,h,snapshot,,02Oct2024stavh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavh,02Oct2024,stav,h,N1,Bee,02Oct2024stavhp1,,,,,,,,Bombus,vosnesenskii,Bee Bombus vosnesenskii,02Oct2024stavHp1,"corbicula, no yellow",female,1,Grindelia,stricta,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavh,02Oct2024,stav,h,N2,Bee,02Oct2024stavhp2,,,,,,,,Bombus,edwardsii,Bee Bombus edwardsii,02Oct2024stavHp2,"center of thorax surrounded by yellow, T1 yellow, T2&T3 black",female,1,Horkelia,californica,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavh,02Oct2024,stav,h,N2,Bee,02Oct2024stavhp3,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,02Oct2024stavHp3,dark spots only on the outer thigh,,1,Grindelia,stricta,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywec,26Aug2024,wywe,c,snapshot,,26Aug2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywec,26Aug2024,wywe,c,N1,,26Aug2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywec,26Aug2024,wywe,c,N2,Wasp,26Aug2024wywecp1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,26Aug2024wyweCp1,"short cheek, no diamond, backstraps, continuous yellow T1",,1,Ground,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywec,26Aug2024,wywe,c,N2,Bee,26Aug2024wywecs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Lantana,,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywec,26Aug2024,wywe,c,snapshot,,26Aug2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024poofnh,23Sep2024,poof,nh,snapshot,,23Sep2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024poofnh,23Sep2024,poof,nh,N1,Wasp,23Sep2024poofnhp1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,23Sep2024poofNHp1,"no diamond, short cheek, backstraps, broken yellow",,1,Madia,sativa,,p1,yes,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024poofnh,23Sep2024,poof,nh,N2,Wasp,23Sep2024poofnhp2,,,,,,,,Eumeninae,,Wasp Eumeninae ,23Sep2024poofNHp2,"no diamond, no backstraps, dark",,1,Madia,sativa,,p2,yes,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,snapshot,Hoverfly,17Jul2024mpsuh,,,,,,,,,,Hoverfly  ,,,,NA,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,snapshot,Bee,17Jul2024mpsuh,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Conolvulus,arvensis,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Hoverfly,17Jul2024mpsuhp1,,,,,,,,Eristalis,,Hoverfly Eristalis ,17Jul2024mpsuHp1,,,1,Symphyotrichum,chilense,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Wasp,17Jul2024mpsuhp2,,,,,,,,Dolichovespula,arenaria,Wasp Dolichovespula arenaria,17Jul2024mpsuHp2,"broken goggles, checkmark, gap on yellow T1",,1,Perideridia,kellogii,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Bee,17Jul2024mpsuhp3,,,,,,,,Apis,mellifera,Bee Apis mellifera,17Jul2024mpsuHp3,"hairy thorax, long atennas",,1,Grindelia,hirsistula,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Bee,17Jul2024mpsuhp4,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,17Jul2024mpsuHp4,"no corbicula, yellow underneath & tergites",,1,Horkelia,californica,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Bee,17Jul2024mpsuhs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Grindelia,hirsistula,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Bee,17Jul2024mpsuhs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,hirsistula,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Bee,17Jul2024mpsuhp5,,,,,,,,Bombus,caliginosus,Bee Bombus caliginosus,17Jul2024mpsuHp5,"yellow sternites under, front yellow, T4 yellow",female,1,Horkelia,californica,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Bee,17Jul2024mpsuhp6,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,17Jul2024mpsuHp6,"T4 yellow, yellow on sternites & thorax",male,1,Horkelia,californica,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N1,Hoverfly,17Jul2024mpsuhp7,,,,,,,,,,Hoverfly  ,17Jul2024mpsuHp7,,,1,Grindelia,hirsistula,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N2,Wasp,17Jul2024mpsuhp8,,,,,,,,Dolichovespula,arenaria,Wasp Dolichovespula arenaria,17Jul2024mpsuHp8,"broken goggles, checkmark on thorax, T1 gap in yellow",,1,Perideridia,kellogii,,p8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N2,Bee,17Jul2024mpsuhp9,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,"13 antennal cells, yellow underneath",male,1,Grindelia,hirsistula,,p9,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N2,Hoverfly,17Jul2024mpsuhp10,,,,,,,,,,Hoverfly  ,17Jul2024mpsuHp10,,,1,Grindelia,hirsistula,,p10,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N2,Hoverfly,17Jul2024mpsuhp11,,,,,,,,,,Hoverfly  ,17Jul2024mpsuHp11,,,1,Perideridia,kellogii,,p11,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jul2024mpsuh,17Jul2024,mpsu,h,N2,Wasp,17Jul2024mpsuhp12,,,,,,,,Dolichovespula,arenaria,Wasp Dolichovespula arenaria,17Jul2024mpsuHp12,"discontinued yellow, backstraps, checkmark",,1,Perideridia,kellogii,,p12,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsuc,21Aug2024,mpsu,c,snapshot,,21Aug2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsuc,21Aug2024,mpsu,c,N1,,21Aug2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsuc,21Aug2024,mpsu,c,N2,,21Aug2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywenh,26Aug2024,wywe,nh,snapshot,,26Aug2024wywenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywenh,26Aug2024,wywe,nh,N1,Wasp,26Aug2024wywenhp1,,,,,,,,Eumeninae,,Wasp Eumeninae ,26Aug2024wyweNHp1,,,1,,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywenh,26Aug2024,wywe,nh,N1,Wasp,26Aug2024wywenhp2,,,,,,,,Pompilidae,,Wasp Pompilidae ,26Aug2024wyweNHp2,,,1,,,,p2,,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024wywenh,26Aug2024,wywe,nh,N2,,26Aug2024wywenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Apr2024ymcah,22Apr2024,ymca,h,snapshot,Bee,22Apr2024ymcah,,,,,,,,Bombus,,Bee Bombus ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Apr2024ymcah,22Apr2024,ymca,h,N1,Fly,22Apr2024ymcahp1,,,,,,,,Cephus,cinctus,Fly Cephus cinctus,22Apr2024ymcaHp1,,,1,Ranunculus,californicus,,p1,yes,bug guide ID-ed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22Apr2024ymcah,22Apr2024,ymca,h,N2,,22Apr2024ymcah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,snapshot,Bee,29Jul2024ymcah,,,,,,,,,,Bee  ,,,,1,Grindelia,hirsistula,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcah,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,1,Symphyotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcah,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,1,Symphyotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcahp1,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,29Jul2024ymcaHp1,"hind tibia dark line, dark spots and inner and outer thighs",male,1,Symphyotrichum,chilense,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcahp2,,,,,,,,Agapostamon,,Bee Agapostamon ,29Jul2024ymcaHp2,"raised carina, no indent in the eye",female,1,Symphyotrichum,chilense,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Wasp,29Jul2024ymcah,,,,,,,,Vespula,,Wasp Vespula ,,,,1,,,,,missed,ground,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcahp3,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,29Jul2024ymcaHp3,hind tibia dark line,male,1,Fumaria,capreolata,,p3,yes,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcahs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,hirsistula,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Perideridia,kellogii,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Symphyotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Bee,29Jul2024ymcahs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,hirsistula,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N1,Wasp,29Jul2024ymcah,,,,,,,,Vespula,,Wasp Vespula ,,,,1,Grevillea,lanigera,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Bee,29Jul2024ymcahs3,,,,,,,,Megachilidae,,Bee Megachilidae ,,,,1,Symphyotrichum,chilense,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Bee,29Jul2024ymcah,,,,,,,,,,Bee  ,,,,1,Symphyotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Bee,29Jul2024ymcahp4,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,29Jul2024ymcaHp4,"all green, raised carina",,1,Symphyotrichum,chilense,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Wasp,29Jul2024ymcahp5,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,29Jul2024ymcaHp5,"T1 yellow unbroken, no checkmark, broken goggles, 13 seg",male,1,Perideridia,kellogii,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Bee,29Jul2024ymcahs4,,,,,,,,,,Bee  ,,,,1,Grindelia,hirsistula,,s4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Bee,29Jul2024ymcahs5,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Symphyotrichum,chilense,,s5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Bee,29Jul2024ymcahs6,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,hirsistula,,s6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Bee,29Jul2024ymcahs7,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,hirsistula,,s7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcah,29Jul2024,ymca,h,N2,Bee,29Jul2024ymcah,,,,,,,,green sweat,,Bee green sweat ,,,,1,Symphyotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,snapshot,Bee,09Sep2024ymcanh,,,,,,,,green sweat,,Bee green sweat ,,,,3,Fragaria,chiloensis,,,,"wrote down as ""irridescent small bee"" on the sheet",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N1,Wasp,09Sep2024ymcanhp1,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,09Sep2024ymcaNHp1,"full goggles, diamond on T1, yellow on the scapes",,1,Achillea,millefolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N1,Wasp,09Sep2024ymcanhp2,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,09Sep2024ymcaNHp2,"full goggles, diamond on T1, yellow on the scapes",,1,Grevillea,lanigera,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N1,Wasp,09Sep2024ymcanhp3,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,09Sep2024ymcaNHp3,"full goggles, diamond on T1, yellow on the scapes",,1,Grevillea,lanigera,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N1,Moth,09Sep2024ymcanh,,,,,,,,fiery skipper,,Moth fiery skipper ,,,,1,,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N1,Bee,09Sep2024ymcanhp4,,,,,,,,Apis,mellifera,Bee Apis mellifera,09Sep2024ymcaNHp4,"fuzzy, corbicula, thick-bodied, distinct abdomen and thorax",female,1,Grevillea,lanigera,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N2,Bee,09Sep2024ymcanhs1,09Sep2024ymcaNHs1,Halictidae,Lasioglossum (Dialictus),sp. M1,Lasioglossum (Dialictus) sp. M1,M,GreLan,"small, dark",,"Bee small, dark ",,,,1,Grevillea,lanigera,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N2,Bee,09Sep2024ymcanhp5,,,,,,,,Apis,mellifera,Bee Apis mellifera,09Sep2024ymcaNHp5,"fuzzy, corbicula, thick-bodied, distinct abdomen and thorax",female,1,Grevillea,lanigera,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N2,Bee,09Sep2024ymcanhs2,,,,,,,,"small, black",,"Bee small, black ",,,,1,leaves,,,s2,yes,unclear which plant,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N2,Wasp,09Sep2024ymcanhp6,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,09Sep2024ymcaNHp6,"full goggles, diamond on T1, yellow on the scapes",male,1,Fragaria,,,p6,yes,leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,09Sep2024ymcanh,09Sep2024,ymca,nh,N2,Bee,09Sep2024ymcanhs3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,,,,s3,yes,leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcanh,21Aug2024,ymca,nh,snapshot,,21Aug2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcanh,21Aug2024,ymca,nh,N1,Wasp,21Aug2024ymcanhp1,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,21Aug2024ymcaNHp1,"full goggles, diamon T1, yellow scapes",,1,Fragaria,chiloensis,,p1,yes,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcanh,21Aug2024,ymca,nh,N2,Wasp,21Aug2024ymcanhp2,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,21Aug2024ymcaNHp2,"full goggles, diamon T1, yellow scapes",,1,Achillea,millefolium,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcanh,21Aug2024,ymca,nh,N2,Hoverfly,21Aug2024ymcanhp3,,,,,,,,,,Hoverfly  ,21Aug2024ymcaNHp3,,,1,Eriogonum,latifolium,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,30Sep2024poofh,30Sep2024,poof,h,snapshot,Bee,30Sep2024poofh,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Symphiotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,30Sep2024poofh,30Sep2024,poof,h,N1,Bee,30Sep2024poofhp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,30Sep2024poofHp1,corbicula,female,1,Symphiotrichum,chilense,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,30Sep2024poofh,30Sep2024,poof,h,N1,Bee,30Sep2024poofh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Symphiotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,30Sep2024poofh,30Sep2024,poof,h,N2,,30Sep2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofh,12Aug2024,poof,h,snapshot,,12Aug2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofh,12Aug2024,poof,h,N1,Bee,12Aug2024poofhs1,12Aug2024poofHs1,Halictidae,Halictus,tripartitus,Halictus tripartitus,F,SymChi,"small,dark",,"Bee small,dark ",,,,1,Symphiotrichum,chilense,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofh,12Aug2024,poof,h,N1,Bee,12Aug2024poofh,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Symphiotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofh,12Aug2024,poof,h,N2,,12Aug2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,30Sep2024lileh,30Sep2024,lile,h,snapshot,,30Sep2024lileh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,30Sep2024lileh,30Sep2024,lile,h,N1,,30Sep2024lileh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,30Sep2024lileh,30Sep2024,lile,h,N2,Moth,30Sep2024lileh,,,,,,,,fiery skipper,,Moth fiery skipper ,,,,1,Symphiotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,30Sep2024lileh,30Sep2024,lile,h,N2,Wasp,30Sep2024lilehp1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,30Sep2024lileHp1,,,1,,,,p1,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,snapshot,Bee,10Jun2024ymcah,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,2,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,snapshot,Bee,10Jun2024ymcah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,ground,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,snapshot,Bee,10Jun2024ymcah,,,,,,,,Bombus,,Bee Bombus ,,,,2,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,snapshot,Hoverfly,10Jun2024ymcah,,,,,,,,,,Hoverfly  ,,,,1,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahp2,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahp3,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahp4,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahp5,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcah,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Hoverfly,10Jun2024ymcahp6,,,,,,,,,,Hoverfly  ,10Jun2024ymcaHp6,,,1,Horkelia,californica,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahp7,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,10Jun2024ymcaHp7,"yellow on sternites, yellow front face & thorax, no corbicula",male,1,Horkelia,californica,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Horkelia,californica,,s1,yes,yellow pollen on belly - megachillidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahp8,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,10Jun2024ymcaHp8,"yellow on sternites, no corbicula",male,1,Horkelia,californica,,p8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Horkelia,californica,,s2,yes,yellow pollen on belly,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahp9,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,p9,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N1,Bee,10Jun2024ymcahs3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Horkelia,californica,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Bee,10Jun2024ymcahs4,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Horkelia,californica,,s4,yes,yellow pollen on belly,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Bee,10Jun2024ymcahs5,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Phacelia,californica,,s5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Hoverfly,10Jun2024ymcahp10,,,,,,,,,,Hoverfly  ,10Jun2024ymcaHp10,,,1,Sonchus,asper,,p10,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Bee,10Jun2024ymcahs6,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,ground,,,s6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Bee,10Jun2024ymcahs7,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Sonchus,asper,,s7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Unidentified,10Jun2024ymcahp11,,,,,,,,,,Unidentified  ,10Jun2024ymcaHp11,,,1,Sonchus,asper,,p11,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Hoverfly,10Jun2024ymcahp12,,,,,,,,,,Hoverfly  ,10Jun2024ymcaHp12,,,1,Sonchus,asper,,p12,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Bee,10Jun2024ymcahp13,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,p13,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcah,10Jun2024,ymca,h,N2,Bee,10Jun2024ymcahs8,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,ground,,,s8,yes,pollen on belly - megachillidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcah,25Sep2024,ymca,h,snapshot,Wasp,25Sep2024ymcah,,,,,,,,,,Wasp  ,,,,1,,,,,,flying around,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcah,25Sep2024,ymca,h,N1,Bee,25Sep2024ymcahp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,25Sep2024ymcaHp1,"fuzzy thorax, corb",female,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcah,25Sep2024,ymca,h,N1,Wasp,25Sep2024ymcahp2,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,25Sep2024ymcaHp2,"full goggles, yellow on scapes, diamond T1",,1,ground,,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcah,25Sep2024,ymca,h,N1,Hoverfly,25Sep2024ymcahp3,,,,,,,,,,Hoverfly  ,25Sep2024ymcaHp3,,,1,Grindilia,hirsitula,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcah,25Sep2024,ymca,h,N2,Wasp,25Sep2024ymcahp4,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,25Sep2024ymcaHp4,"full goggles, yellow on scapes, diamond T1",,1,Grevillea,lanigera,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcanh,25Sep2024,ymca,nh,snapshot,,25Sep2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcanh,25Sep2024,ymca,nh,N1,,25Sep2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcanh,25Sep2024,ymca,nh,N2,Wasp,25Sep2024ymcanhp1,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,25Sep2024ymcaNHp1,"full goggles, yellow on scapes, diamond T1",,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcanh,25Sep2024,ymca,nh,,Wasp,25Sep2024ymcanhp2,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,25Sep2024ymcaNHp2,"full goggles, yellow on scapes, diamond T2",,1,Grevillea,lanigera,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcanh,25Sep2024,ymca,nh,,Wasp,25Sep2024ymcanhp3,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,25Sep2024ymcaNHp3,"full goggles, yellow on scapes, diamond T3",,1,Fragaria,chiloensis,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcanh,25Sep2024,ymca,nh,,Hoverfly,25Sep2024ymcanhp4,,,,,,,,,,Hoverfly  ,25Sep2024ymcaNHp4,,,1,Grevillea,lanigera,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgh,24Jul2024,fscg,h,snapshot,,24Jul2024fscgh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgh,24Jul2024,fscg,h,N1,Bee,24Jul2024fscghp1,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,24Jul2024fscgHp1,,,1,Symphyotrichum,chilense,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgh,24Jul2024,fscg,h,N1,Bee,24Jul2024fscghs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Horkelia,californica,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgh,24Jul2024,fscg,h,N2,Hoverfly,24Jul2024fscghp2,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,24Jul2024fscgHp2,"dark grey, sheen",,1,Symphyotrichum,chilense,,p2,yes,on leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgh,24Jul2024,fscg,h,N2,Bee,24Jul2024fscghp3,,,,,,,,Bombus,vosnesenskii,Bee Bombus vosnesenskii,24Jul2024fscgHp3,"corbic, no yellow on sternites",,1,Ribes ,sanguineum,,p3,yes,on leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgh,24Jul2024,fscg,h,N2,Bee,24Jul2024fscghp4,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,24Jul2024fscgHp4,dark mark inner and outer hind tibia,,1,Tropeaolum ,majus,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgc,24Jul2024,fscg,c,snapshot,,24Jul2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgc,24Jul2024,fscg,c,N1,,24Jul2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,24Jul2024fscgc,24Jul2024,fscg,c,N2,Wasp,24Jul2024fscgcp1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,24Jul2024fscgCp1,"short cheek, no check-mark, continuous yellow T1, broken goggles",,1,,,,p1,yes,in air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,14Aug2024wywenh,14Aug2024,wywe,nh,snapshot,Bee,14Aug2024wywenh,,,,,,,,"small,dark",,"Bee small,dark ",,,,3,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,14Aug2024wywenh,14Aug2024,wywe,nh,N1,Bee,14Aug2024wywenh,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Eriogonum,latifolium,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,14Aug2024wywenh,14Aug2024,wywe,nh,N2,Bee,14Aug2024wywenhs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Eriogonum,latifolium,,s1,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,14Aug2024wywenh,14Aug2024,wywe,nh,N2,Bee,14Aug2024wywenhs2,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s2,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,14Aug2024wywenh,14Aug2024,wywe,nh,N2,Bee,14Aug2024wywenhs3,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s3,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,14Aug2024wywenh,14Aug2024,wywe,nh,N2,Bee,14Aug2024wywenhs4,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Eriogonum,latifolium,,s4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,14Aug2024wywenh,14Aug2024,wywe,nh,N2,Bee,14Aug2024wywenhs5,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Eriogonum,latifolium,,s5,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgnh,03Oct2024,fscg,nh,snapshot,Fly,03Oct2024fscgnh,,,,,,,,Tachinid,,Fly Tachinid ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgnh,03Oct2024,fscg,nh,snapshot,Hoverfly,03Oct2024fscgnh,,,,,,,,Eristalis,,Hoverfly Eristalis ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgnh,03Oct2024,fscg,nh,N1,Hoverfly,03Oct2024fscgnhp1,,,,,,,,Eristalis,,Hoverfly Eristalis ,03Oct2024fscgNHp1,,,1,Achillea,millefolium,,p1,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgnh,03Oct2024,fscg,nh,N1,Bee,03Oct2024fscgnh,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Vegetation,,,,no,missed; on Digitalis seed pods,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgnh,03Oct2024,fscg,nh,N1,Hoverfly,03Oct2024fscgnhp2,,,,,,,,Eristalis,,Hoverfly Eristalis ,03Oct2024fscgNHp2,,,1,Achillea,millefolium,,p2,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgnh,03Oct2024,fscg,nh,N2,Butterfly,03Oct2024fscgnh,,,,,,,,Pieris ,rapae,Butterfly Pieris  rapae,,,,1,,,,,,fly around in plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,snapshot,Bee,03Oct2024fscgh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,4,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,snapshot,Bee,03Oct2024fscgh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,1,Tropeaolum ,majus,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N1,Hoverfly,03Oct2024fscgh,,,,,,,,,,Hoverfly  ,,,,1,Symphyotrichum,chilense,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N1,Hoverfly,03Oct2024fscghp1,,,,,,,,Eristalis,,Hoverfly Eristalis ,03Oct2024fscgHp1,,,1,Grindelia,stricta,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N1,Butterfly,03Oct2024fscghp2,,,,,,,,Poanes,melane,Butterfly Poanes melane,03Oct2024fscgHp2,,,1,Symphyotrichum,chilense,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N1,Hoverfly,03Oct2024fscghp3,,,,,,,,Eristalis,,Hoverfly Eristalis ,03Oct2024fscgHp3,,,1,Grindelia,stricta,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N1,Bee,03Oct2024fscgh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,1,Grindelia,stricta,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N1,Bee,03Oct2024fscgh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,1,Grindelia,stricta,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N2,Bee,03Oct2024fscghp4,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,03Oct2024fscgHp4,dark mark outer hind tibia,,1,Symphyotrichum,chilense,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N2,Bee,03Oct2024fscgh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,1,Symphyotrichum,chilense,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N2,Hoverfly,03Oct2024fscghp5,,,,,,,,Eristalis,,Hoverfly Eristalis ,03Oct2024fscgHp5,,,1,Symphyotrichum,chilense,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N2,Bee,03Oct2024fscghs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Symphyotrichum,chilense,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N2,Bee,03Oct2024fscgh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,1,,,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgh,03Oct2024,fscg,h,N2,Bee,03Oct2024fscgh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,,1,Symphyotrichum,chilense,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgc,03Oct2024,fscg,c,snapshot,Bee,03Oct2024fscgc,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Salvia,rosmarinus,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgc,03Oct2024,fscg,c,N1,Bee,03Oct2024fscgc,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Salvia,rosmarinus,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgc,03Oct2024,fscg,c,N2,Bee,03Oct2024fscgc,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Salvia,rosmarinus,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Oct2024fscgc,03Oct2024,fscg,c,N2,Bee,03Oct2024fscgcp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,02Oct2024fscgCp1,,,1,Salvia,rosmarinus,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lilec,08Jul2024,lile,c,snapshot,,08Jul2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lilec,08Jul2024,lile,c,N1,,08Jul2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lilec,08Jul2024,lile,c,N2,,08Jul2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,snapshot,Bee,10Jul2024fosch,,,,,,,,Bombus,,Bee Bombus ,,,,3,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,snapshot,Hoverfly,10Jul2024fosch,,,,,,,,,,Hoverfly  ,,,,3,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N1,Bee,10Jul2024foschp1,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,,1,Horkelia,californica,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N1,Bee,10Jul2024foschp2,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,male,1,Horkelia,californica,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N1,Bee,10Jul2024foschp3,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,male,1,Horkelia,californica,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N1,Bee,10Jul2024foschp4,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,male,1,Symphyotrichum,chilense,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N1,Bee,10Jul2024foschp5,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,,1,Horkelia,californica,,p5,yes,did not determine sex,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N1,Hoverfly,10Jul2024foschp6,,,,,,,,Sphaerophoria sulfurides,,Hoverfly Sphaerophoria sulfurides ,,,,1,,,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N1,Bee,10Jul2024foschp7,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,male,1,Horkelia,californica,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N2,Bee,10Jul2024foschp8,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,male,1,Horkelia,californica,,p8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024fosch,10Jul2024,fosc,h,N2,Bee,10Jul2024foschp9,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,male,1,Horkelia,californica,,p9,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024foscnh,10Jul2024,fosc,nh,snapshot,,10Jul2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024foscnh,10Jul2024,fosc,nh,N1,Bee,10Jul2024foscnhp1,,,,,,,,Bombus,caliginosus,Bee Bombus caliginosus,,,female,1,Eriogonum,latifolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jul2024foscnh,10Jul2024,fosc,nh,N2,Bee,10Jul2024foscnhs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Eriogonum,latifolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,06Apr2024wywenh,06Apr2024,wywe,nh,snapshot,Bee,06Apr2024wywenh,,,,,,,,Bombus,,Bee Bombus ,,,,1,,,,,,buzz around plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,06Apr2024wywenh,06Apr2024,wywe,nh,N1,Bee,06Apr2024wywenh,,,,,,,,Bombus,,Bee Bombus ,,,,1,,,,,no,buzz around plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,06Apr2024wywenh,06Apr2024,wywe,nh,N2,Unidentified,06Apr2024wywenh,,,,,,,,,,Unidentified  ,,,,1,Achillea,millefolium,,,no,"lost after netting; small dark ""winged weavel""",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,snapshot,Bee,08Jul2024lileh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,male,1,Calandrinia,grandiflora,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,snapshot,Bee,08Jul2024lileh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,male,1,Grindelia,hirsitula,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,snapshot,Bee,08Jul2024lileh,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Calandrinia,grandiflora,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Hoverfly,08Jul2024lilehp1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,08Jul2024lileHp1,,,1,Calandrinia,grandiflora,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Bee,08Jul2024lileh,,,,,,,,Agapostamon,,Bee Agapostamon ,,,male,1,Calandrinia,grandiflora,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Bee,08Jul2024lilehp2,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,08Jul2024lileHp2,,male,1,Calandrinia,grandiflora,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Bee,08Jul2024lilehs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Calandrinia,grandiflora,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Bee,08Jul2024lilehs2,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Grindelia,hirsitula,pollen,s2,yes,bright yellow pollen on lets,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Bee,08Jul2024lileh,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Calandrinia,grandiflora,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Bee,08Jul2024lileh,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Horkelia,californica,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Bee,08Jul2024lilehp3,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,08Jul2024lileHp3,,male,1,Horkelia,californica,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N1,Bee,08Jul2024lilehp4,,,,,,,,Agapostamon,,Bee Agapostamon ,08Jul2024lileHp4,,female,1,Grindelia,hirsitula,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N2,Bee,08Jul2024lilehp5,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,08Jul2024lileHp5,,male,1,Horkelia,californica,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N2,Bee,08Jul2024lilehs3,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Horkelia,californica,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N2,Bee,08Jul2024lileh,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Calandrinia,grandiflora,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N2,Bee,08Jul2024lilehp6,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,08Jul2024lileHp6,,male,1,Horkelia,californica,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N2,Bee,08Jul2024lilehp7,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,08Jul2024lileHp7,,male,1,Calandrinia,grandiflora,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N2,Bee,08Jul2024lilehs4,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,,,,s4,yes,"saw in seam of net, likely from previous netting",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lileh,08Jul2024,lile,h,N2,Bee,08Jul2024lilehs5,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Calandrinia,grandiflora,,s5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lilenh,08Jul2024,lile,nh,snapshot,,08Jul2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lilenh,08Jul2024,lile,nh,N1,Bee,08Jul2024lilenhp1,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,08Jul2024lilenhp1,,male,1,Monardella,villosa,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lilenh,08Jul2024,lile,nh,N1,Wasp,08Jul2024lilenhp2,,,,,,,,Vespula,germanica,Wasp Vespula germanica,08Jul2024lilenhp2,,,1,Achillea,millefolium,,p2,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Jul2024lilenh,08Jul2024,lile,nh,N2,Bee,08Jul2024lilenhp3,,,,,,,,Agapostamon,texanus,Bee Agapostamon texanus,08Jul2024lilenhp3,,male,1,Monardella,villosa,,p3,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Apr2024stavc,08Apr2024,stav,c,snapshot,,08Apr2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Apr2024stavc,08Apr2024,stav,c,N1,,08Apr2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Apr2024stavc,08Apr2024,stav,c,N2,Bee,08Apr2024stavcp1,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,08Apr2024stavCp1,"yellow on sternites, no corbicula, yellow front thorax",,1,Fuschia,thymifolia,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcac,08Sep2024,ymca,c,snapshot,Bee,08Sep2024ymcac,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,3,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcac,08Sep2024,ymca,c,snapshot,,08Sep2024ymcac,,,,,,,,Wasp,, Wasp ,,,,3,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcac,08Sep2024,ymca,c,N1,Bee,08Sep2024ymcacp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,08Sep2024ymcaCp1,"fuzzy, short antennas, corbicula",female,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcac,08Sep2024,ymca,c,N1,Bee,08Sep2024ymcacp2,,,,,,,,Apis,mellifera,Bee Apis mellifera,08Sep2024ymcaCp2,"corbicula, fuzzy",female,1,Grevillea,lanigera,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcac,08Sep2024,ymca,c,N1,Bee,08Sep2024ymcacp3,,,,,,,,Apis,mellifera,Bee Apis mellifera,08Sep2024ymcaCp3,"fuzzy, short antenna",,1,Grevillea,lanigera,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcac,08Sep2024,ymca,c,N2,Wasp,08Sep2024ymcacp4,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,08Sep2024ymcaCp4,"full goggles, diamond T1, yellow on the scapes",,1,Grevillea,lanigera,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcac,25Sep2024,ymca,c,snapshot,,25Sep2024ymcac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcac,25Sep2024,ymca,c,N1,Bee,25Sep2024ymcacp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,25Sep2024ymcaCp1,"fuzzy, corbicula",female,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcac,25Sep2024,ymca,c,N1,Bee,25Sep2024ymcacp2,,,,,,,,Apis,mellifera,Bee Apis mellifera,25Sep2024ymcaCp2,,,1,Grevillea,lanigera,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcac,25Sep2024,ymca,c,N1,Bee,25Sep2024ymcac,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Sep2024ymcac,25Sep2024,ymca,c,N2,Bee,25Sep2024ymcacp3,,,,,,,,Apis,mellifera,Bee Apis mellifera,25Sep2024ymcaCp3,"fuzzy, corbicula",female,1,Grevillea,lanigera,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcac,10Jun2024,ymca,c,snapshot,Bee,10Jun2024ymcac,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,2,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcac,10Jun2024,ymca,c,N1,Bee,10Jun2024ymcacp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,10Jun2024ymcaCp1,,,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcac,10Jun2024,ymca,c,N2,,10Jun2024ymcac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcah,21Aug2024,ymca,h,snapshot,,21Aug2024ymcah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcah,21Aug2024,ymca,h,N1,Hoverfly,21Aug2024ymcahp1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,21Aug2024ymcaHp1,,,1,Symphyotrichum,chilense,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcah,21Aug2024,ymca,h,N1,Hoverfly,21Aug2024ymcahp2,,,,,,,,Allograpta,obliqua,Hoverfly Allograpta obliqua,21Aug2024ymcaHp2,,,1,Grevillea,lanigera,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcah,21Aug2024,ymca,h,N1,Wasp,21Aug2024ymcahp3,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,21Aug2024ymcaHp3,"full goggles, diamond T1, yellow scapes",,1,Grevillea,lanigera,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcah,21Aug2024,ymca,h,N1,unknown,21Aug2024ymcahp4,,,,,,,,,,unknown  ,21Aug2024ymcaHp4,,,1,Symphyotrichum,chilense,,p4,yes,stem fly?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcah,21Aug2024,ymca,h,N2,Hoverfly,21Aug2024ymcah,,,,,,,,,,Hoverfly  ,,,,1,Grevillea,lanigera,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,snapshot,Hoverfly,21Aug2024mpsunh,,,,,,,,,,Hoverfly  ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,snapshot,Bee,21Aug2024mpsunh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calystegia,purpurata,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,snapshot,Wasp,21Aug2024mpsunh,,,,,,,,,,Wasp  ,,,,1,Calystegia,purpurata,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,snapshot,Hoverfly,21Aug2024mpsunh,,,,,,,,,,Hoverfly  ,,,,1,Monardella,villosa,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Wasp,21Aug2024mpsunhp1,,,,,,,,Eumeninae,,Wasp Eumeninae ,21Aug2024mpsuNHp1,dark thorax,,1,Eriogonum,latifolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Bee,21Aug2024mpsunhs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Bee,21Aug2024mpsunhs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Moth,21Aug2024mpsunhp2,,,,,,,,fiery skipper,,Moth fiery skipper ,21Aug2024mpsuNHp2,"rolled-up tongue, spots on wings",,1,Calystegia,purpurata,,p2,yes,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Wasp,21Aug2024mpsunhp3,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,21Aug2024mpsuNHp3,"full goggles, yellow scapes",,1,Calystegia,purpurata,,p3,yes,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Wasp,21Aug2024mpsunhp4,,,,,,,,Eumeninae,,Wasp Eumeninae ,21Aug2024mpsuNHp4,dark thorax,,1,Eriogonum,latifolium,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Wasp,21Aug2024mpsunhp5,,,,,,,,dark,,Wasp dark ,21Aug2024mpsuNHp5,,,1,Calystegia,purpurata,,p5,yes,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Hoverfly,21Aug2024mpsunhp6,,,,,,,,Syritta,,Hoverfly Syritta ,21Aug2024mpsuNHp6,,,1,Eriogonum,latifolium,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N1,Wasp,21Aug2024mpsunhp7,,,,,,,,Eumeninae,,Wasp Eumeninae ,21Aug2024mpsuNHp7,dark thorax,,1,Eriogonum,latifolium,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024mpsunh,21Aug2024,mpsu,nh,N2,Bee,21Aug2024mpsunhs3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,,,,s3,,ground,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavc,02Oct2024,stav,c,snapshot,,02Oct2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavc,02Oct2024,stav,c,N1,Hoverfly,02Oct2024stavc,,,,,,,,,,Hoverfly  ,,,,1,Hydrangea,quercifolia,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavc,02Oct2024,stav,c,N2,Hoverfly,02Oct2024stavcp1,,,,,,,,Syritta,,Hoverfly Syritta ,02Oct2024stavCp1,,,1,Hydrangea,quercifloa,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavc,02Oct2024,stav,c,N2,Moth,02Oct2024stavcp2,,,,,,,,fiery skipper,,Moth fiery skipper ,02Oct2024stavCp2,"spots on wings, rolled up tongue",,1,Hydrangea,quercifloa,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavc,02Oct2024,stav,c,N2,Moth,02Oct2024stavcp3,,,,,,,,fiery skipper,,Moth fiery skipper ,02Oct2024stavCp3,"spots on wings, rolled up tongue",,1,Hydrangea,quercifloa,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavc,02Oct2024,stav,c,N2,Wasp,02Oct2024stavcp4,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,02Oct2024stavCp4,"diamond on T1, full goggles, yellow on the scapes",,1,Hydrangea,quercifloa,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,02Oct2024stavc,02Oct2024,stav,c,N2,Bee,02Oct2024stavc,,,,,,,,Honey,,Bee Honey ,,,,1,Hydrangea,quercifolia,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lilenh,26Aug2024,lile,nh,snapshot,,26Aug2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lilenh,26Aug2024,lile,nh,N1,Bee,26Aug2024lilenhp1,,,,,,,,Agapostemon,texanus,Bee Agapostemon texanus,26Aug2024lileNHp1,dark marks on the outer & inner tibia,male,1,Monardella,villosa,,p1,,"land on leaf, no flowers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lilenh,26Aug2024,lile,nh,N1,Hoverfly,26Aug2024lilenhp2,,,,,,,,Syrphus,,Hoverfly Syrphus ,26Aug2024lileNHp2,,,1,Achillea,millefolium,,p2,,"near ach mil, no flowers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lilenh,26Aug2024,lile,nh,N2,,26Aug2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024eawah,18Sep2024,eawa,h,snapshot,,18Sep2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024eawah,18Sep2024,eawa,h,N1,Bee,18Sep2024eawahs1,,,,,,,,"medium, dark",,"Bee medium, dark ",,,,1,Symphyotrichum,chilense,pollen,s1,yes,yellow pollen on abdomen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024eawah,18Sep2024,eawa,h,N2,Hoverfly,18Sep2024eawahp1,,,,,,,,Allograpta,,Hoverfly Allograpta ,18Sep2024eawaHp1,,,1,Lantana,,,p1,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024poofnh,21Aug2024,poof,nh,snapshot,Hoverfly,21Aug2024poofnh,,,,,,,,,,Hoverfly  ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024poofnh,21Aug2024,poof,nh,N1,Hoverfly,21Aug2024poofnhp1,,,,,,,,,,Hoverfly  ,21Aug2024poofNHp1,,,1,Eriogonum,latifolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024poofnh,21Aug2024,poof,nh,N2,,21Aug2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawanh,01Sep2024,eawa,nh,snapshot,Hoverfly,01Sep2024eawanh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawanh,01Sep2024,eawa,nh,N1,Bee,01Sep2024eawanhs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawanh,01Sep2024,eawa,nh,N1,Hoverfly,01Sep2024eawanhp1,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawanh,01Sep2024,eawa,nh,N1,Hoverfly,01Sep2024eawanhp2,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawanh,01Sep2024,eawa,nh,N1,Bee,01Sep2024eawanhs2,,,,,,,,"small, dark",,"Bee small, dark ",01Sep2024eawaNHp1,,,1,Achillea,millefolium,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawanh,01Sep2024,eawa,nh,N1,Bee,01Sep2024eawanhs3,,,,,,,,"small, dark",,"Bee small, dark ",01Sep2024eawaNHp2,,,1,Achillea,millefolium,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawanh,01Sep2024,eawa,nh,N2,Hoverfly,01Sep2024eawanhp3,,,,,,,,,,Hoverfly  ,no pictures?,,,3,Achillea,millefolium,,p3,yes,baby hoverfly w/ mom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Sep2024lilenh,16Sep2024,lile,nh,snapshot,,16Sep2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Sep2024lilenh,16Sep2024,lile,nh,N1,Wasp,16Sep2024lilenhp1,,,,,,,,Pompilidae,,Wasp Pompilidae ,16Sep2024lileNHp1,,,NA,ground,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Sep2024lilenh,16Sep2024,lile,nh,N2,,16Sep2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Jun2024stavc,26Jun2024,stav,c,snapshot,Bee,26Jun2024stavc,,,,,,,,Bombus,,Bee Bombus ,,,,1,Fuschia,thymifolia,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Jun2024stavc,26Jun2024,stav,c,N1,Hoverfly,26Jun2024stavcp1,,,,,,,,Allograpta,,Hoverfly Allograpta ,26Jun2024stavCp1,,,1,,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Jun2024stavc,26Jun2024,stav,c,N2,,26Jun2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024ymcac,22May2024,ymca,c,snapshot,,22May2024ymcac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024ymcac,22May2024,ymca,c,N1,Hoverfly,22May2024ymcacp1,,,,,,,,Syrphus,torvus,Hoverfly Syrphus torvus,22May2024ymcaCp1,,,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024ymcac,22May2024,ymca,c,N2,,22May2024ymcac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcanh,10Jun2024,ymca,nh,snapshot,,10Jun2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcanh,10Jun2024,ymca,nh,N1,,10Jun2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,10Jun2024ymcanh,10Jun2024,ymca,nh,N2,Hoverfly,10Jun2024ymcanhp1,,,,,,,,Sphaerophoria,sulphuripes,Hoverfly Sphaerophoria sulphuripes,10Jun2024ymcaNHp1,,,1,Achillea,millefolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawah,01Sep2024,eawa,h,snapshot,Hoverfly,01Sep2024eawah,,,,,,,,,,Hoverfly  ,,,,1,Grindelia,hirsitula,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawah,01Sep2024,eawa,h,N1,Bee,01Sep2024eawah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Lantana,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawah,01Sep2024,eawa,h,N2,Wasp,01Sep2024eawahp1,,,,,,,,Eumeninae,,Wasp Eumeninae ,01Sep2024eawaHp1,"dark thorax, yellow scapes",,1,Symphyotrichum,chilense,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024eawah,01Sep2024,eawa,h,N2,Butterfly,01Sep2024eawah,,,,,,,,Vanessa,,Butterfly Vanessa ,,,,1,,,,,missed,large eye spots,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024eawac,18Sep2024,eawa,c,snapshot,,18Sep2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024eawac,18Sep2024,eawa,c,N1,,18Sep2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024eawac,18Sep2024,eawa,c,N2,Wasp,18Sep2024eawac,,,,,,,,Vespula,,Wasp Vespula ,,,,1,,,,,misseed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024fscgc,08Sep2024,fscg,c,snapshot,Bee,08Sep2024fscgc,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,ground,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024fscgc,08Sep2024,fscg,c,snapshot,Bee,08Sep2024fscgc,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Salvia,rosmarinus,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024fscgc,08Sep2024,fscg,c,N1,,08Sep2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024fscgc,08Sep2024,fscg,c,N2,,08Sep2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,04Sep2024mpsuc,04Sep2024,mpsu,c,snapshot,,04Sep2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,04Sep2024mpsuc,04Sep2024,mpsu,c,N1,,04Sep2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,04Sep2024mpsuc,04Sep2024,mpsu,c,N2,,04Sep2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024poofc,21Aug2024,poof,c,snapshot,,21Aug2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024poofc,21Aug2024,poof,c,N1,,21Aug2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024poofc,21Aug2024,poof,c,N2,,21Aug2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcah,08Sep2024,ymca,h,snapshot,,08Sep2024ymcah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcah,08Sep2024,ymca,h,N1,,08Sep2024ymcah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcah,08Sep2024,ymca,h,N2,Bee,08Sep2024ymcah,,,,,,,,,,Bee  ,,,,1,Horkelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Sep2024ymcah,08Sep2024,ymca,h,N2,Bee,08Sep2024ymcah,,,,,,,,,,Bee  ,,,,1,Grevillea,lanigera,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Apr2024ymcanh,24Apr2024,ymca,nh,snapshot,,24Apr2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Apr2024ymcanh,24Apr2024,ymca,nh,N1,,24Apr2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Apr2024ymcanh,24Apr2024,ymca,nh,N2,,24Apr2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcanh,29Jul2024,ymca,nh,snapshot,,29Jul2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcanh,29Jul2024,ymca,nh,N1,,29Jul2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Jul2024ymcanh,29Jul2024,ymca,nh,N2,,29Jul2024ymcanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcac,21Aug2024,ymca,c,snapshot,Hoverfly,21Aug2024ymcac,,,,,,,,,,Hoverfly  ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcac,21Aug2024,ymca,c,N1,,21Aug2024ymcac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,21Aug2024ymcac,21Aug2024,ymca,c,N2,,21Aug2024ymcac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,11Sep2024stavc,11Sep2024,stav,c,snapshot,,11Sep2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,11Sep2024stavc,11Sep2024,stav,c,N1,,11Sep2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,11Sep2024stavc,11Sep2024,stav,c,N2,,11Sep2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Jul2024stavc,31Jul2024,stav,c,snapshot,,31Jul2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Jul2024stavc,31Jul2024,stav,c,N1,,31Jul2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Jul2024stavc,31Jul2024,stav,c,N2,,31Jul2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,26Aug2024wyweh,26Aug2024,wywe,h,snapshot,,26Aug2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,26Aug2024wyweh,26Aug2024,wywe,h,N1,,26Aug2024wyweh,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,26Aug2024wyweh,26Aug2024,wywe,h,N2,,26Aug2024wyweh,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,snapshot,bee?,27Aug2024shtah,,,,,,,,,,bee?  ,,,,1,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N1,bee,27Aug2024shtahs1,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Grindelia,stricta,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N1,Butterfly,27Aug2024shtah,,,,,,,,,,Butterfly  ,,,,1,Symphyotrichum,chilense,,,no,fiery skipper?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N1,bee,27Aug2024shtahs2,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Grindelia,stricta,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N1,bee,27Aug2024shtah,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Grindelia,stricta,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N1,bee,27Aug2024shtah,,,,,,,,"small, dark",,"bee small, dark ",,,,1,vegetation,,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N1,bee,27Aug2024shtah,,,,,,,,"small, dark",,"bee small, dark ",,,,1,vegetation,,,,no,missed; GriStr leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N1,bee,27Aug2024shtahs3,,,,,,,,"small, dark",,"bee small, dark ",,,,1,vegetation,,,s3,yes,"on leaf of New Zealand flax, no flowers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N2,Hoverfly,27Aug2024shtah,,,,,,,,,,Hoverfly  ,,,,1,Symphyotrichum,chilense,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,27Aug2024shtah,27Aug2024,shta,h,N2,bee,27Aug2024shtah,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Grevillea,lanigera,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Aug2024shtah,12Aug2024,shta,h,snapshot,Wasp,12Aug2024shtah,,,,,,,,,,Wasp  ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Aug2024shtah,12Aug2024,shta,h,N1,Hoverfly,12Aug2024shtahp1,,,,,,,,,,Hoverfly  ,,,,1,Grindelia,stricta,,p1,yes,DG cannot find photo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Aug2024shtah,12Aug2024,shta,h,N2,Wasp,12Aug2024shtah,,,,,,,,,,Wasp  ,,,,1,Grevillea,lanigera,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,26Aug2024lilec,26Aug2024,lile,c,snapshot,,26Aug2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,26Aug2024lilec,26Aug2024,lile,c,N1,Hoverfly,26Aug2024lilec,,,,,,,,,,Hoverfly  ,,,,1,Aloe,arborescens,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,26Aug2024lilec,26Aug2024,lile,c,N2,,26Aug2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024fosch,30Sep2024,fosc,h,snapshot,,30Sep2024fosch,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024fosch,30Sep2024,fosc,h,N1,Hoverfly,30Sep2024foschp1,,,,,,,,Eupeodes,fumipennis,Hoverfly Eupeodes fumipennis,30Sepfoschp1,,,1,Grindelia,stricta,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024fosch,30Sep2024,fosc,h,N1,Hoverfly,30Sep2024foschp2,,,,,,,,Syritta,,Hoverfly Syritta ,30Sepfoschp2,,,1,Symphyotrichum,chilense,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024fosch,30Sep2024,fosc,h,N2,Hoverfly,30Sep2024foschp3,,,,,,,,,,Hoverfly  ,,,,1,Symphyotrichum,chilense,,p3,yes,"photos unclear which number this hoverfly was, so leaving out a photo packet for this one",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024fosch,30Sep2024,fosc,h,N2,Hoverfly,30Sep2024foschp4,,,,,,,,Eristalis,,Hoverfly Eristalis ,30Sepfoschp4,,,1,Symphyotrichum,chilense,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024foscc,30Sep2024,fosc,c,snapshot,,30Sep2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024foscc,30Sep2024,fosc,c,N1,,30Sep2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024foscc,30Sep2024,fosc,c,N2,,30Sep2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024lilec,30Sep2024,lile,c,snapshot,,30Sep2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024lilec,30Sep2024,lile,c,N1,,30Sep2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024lilec,30Sep2024,lile,c,N2,,30Sep2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024lilenh,30Sep2024,lile,nh,snapshot,,30Sep2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024lilenh,30Sep2024,lile,nh,N1,,30Sep2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,30Sep2024lilenh,30Sep2024,lile,nh,N2,,30Sep2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,18Sep2024eawanh,18Sep2024,eawa,nh,snapshot,,18Sep2024eawanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,18Sep2024eawanh,18Sep2024,eawa,nh,N1,,18Sep2024eawanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,18Sep2024eawanh,18Sep2024,eawa,nh,N2,Hoverfly,18Sep2024eawanhp1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,18Sep2024eawaNHp1,,,1,Hydrangea,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,18Sep2024eawanh,18Sep2024,eawa,nh,N2,Wasp,18Sep2024eawanhp2,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,18Sep2024eawaNHp2,,,1,Achillea,millefolium,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024foscnh,16Sep2024,fosc,nh,snapshot,,16Sep2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024foscnh,16Sep2024,fosc,nh,N1,bee,16Sep2024foscnh,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Eriogonum,latifolium,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024foscnh,16Sep2024,fosc,nh,N2,bee,16Sep2024foscnhs1,16Sep2024foscNHs1,Halictidae,Lasioglossum (Dialictus),sp. M1,Lasioglossum (Dialictus) sp. M1,M,EriLat,"small, dark",,"bee small, dark ",,,,1,Eriogonum,latifolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lilec,16Sep2024,lile,c,snapshot,,16Sep2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lilec,16Sep2024,lile,c,N1,,16Sep2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lilec,16Sep2024,lile,c,N2,,16Sep2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,snapshot,bee,16Sep2024lileh,,,,,,,,"small, dark",,"bee small, dark ",,,,1,,,,,,flying around,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,snapshot,moth,16Sep2024lileh,,,,,,,,,,moth  ,,,,1,Symphyotrichum,chilense,,,,brown; DG wonders if this could be skipper butterfly?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N1,bee,16Sep2024lilehp1,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,16Sep2024lileHp1,,male,1,Symphyotrichum,chilense,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N1,bee,16Sep2024lilehp2,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,16Sep2024lileHp2,,male,1,Symphyotrichum,chilense,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N1,Wasp,16Sep2024lilehp3,,,,,,,,Eumeninae,,Wasp Eumeninae ,16Sep2024lileHp3,,,1,ground,,,p3,yes,Philantus? Posted on Bug Guide - bug got Eumeninae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N1,bee,16Sep2024lilehp4,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,16Sep2024lileHp4,,male,1,Symphyotrichum,chilense,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N1,Wasp,16Sep2024lilehp5,,,,,,,,Eumeninae,,Wasp Eumeninae ,16Sep2024lileHp5,,,1,Grindelia,hirsitula,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N1,Wasp,16Sep2024lilehp6,,,,,,,,Eumeninae,,Wasp Eumeninae ,16Sep2024lileHp6,,,1,ground,,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N2,bee,16Sep2024lilehp7,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,16Sep2024lileHp7,,male,1,Symphyotrichum,chilense,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N2,bee,16Sep2024lilehp8,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,16Sep2024lileHp8,,male,1,Symphyotrichum,chilense,,p8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N2,bee,16Sep2024lilehp9,,,,,,,,vos/calig,,bee vos/calig ,16Sep2024lileHp9,,male,1,Symphyotrichum,chilense,,p9,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N2,bee,16Sep2024lilehp10,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,16Sep2024lileHp10,,male,1,Symphyotrichum,chilense,,p10,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N2,bee,16Sep2024lileh,,,,,,,,Agapostemon,,bee Agapostemon ,,,,1,Symphyotrichum,chilense,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024lileh,16Sep2024,lile,h,N2,bee,16Sep2024lilehp11,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,16Sep2024lileHp11,,male,1,vegetation,,,p11,yes,on GriStr leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewanh,16Sep2024,wewa,nh,snapshot,,16Sep2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewanh,16Sep2024,wewa,nh,N1,,16Sep2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewanh,16Sep2024,wewa,nh,N2,,16Sep2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewah,16Sep2024,wewa,h,snapshot,Unknown,16Sep2024wewah,,,,,,,,,,Unknown  ,,,,1,Leptospermum,scoparium,,,no,wasp or honeybee,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewah,16Sep2024,wewa,h,N1,Unknown,16Sep2024wewahp1,,,,,,,,,,Unknown  ,16Sep2024wewaHp1,,,1,Osteospermum,,,p1,yes,"large, wasp-like body, but short antennae; looks like robber fly (DFG)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewah,16Sep2024,wewa,h,N2,,16Sep2024wewah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewac,16Sep2024,wewa,c,snapshot,,16Sep2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewac,16Sep2024,wewa,c,N1,,16Sep2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,16Sep2024wewac,16Sep2024,wewa,c,N2,,16Sep2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024fosch,11Sep2024,fosc,h,snapshot,,11Sep2024fosch,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024fosch,11Sep2024,fosc,h,N1,bee,11Sep2024fosch,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Grindelia,hirsitula,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024fosch,11Sep2024,fosc,h,N2,Hoverfly,11Sep2024foschp1,,,,,,,,Eupeodes,fumipennis,Hoverfly Eupeodes fumipennis,2024foscHp1,,,1,Grindelia,hirsitula,,p1,yes,"DG using Neartic key, Parasyrphus? Slide 274",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024foscc,11Sep2024,fosc,c,snapshot,,11Sep2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024foscc,11Sep2024,fosc,c,N1,,11Sep2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024foscc,11Sep2024,fosc,c,N2,,11Sep2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024stavnh,11Sep2024,stav,nh,snapshot,,11Sep2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024stavnh,11Sep2024,stav,nh,N1,,11Sep2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024stavnh,11Sep2024,stav,nh,N2,,11Sep2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024stavh,11Sep2024,stav,h,snapshot,,11Sep2024stavh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024stavh,11Sep2024,stav,h,N1,bee,11Sep2024stavh,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Grindelia,stricta,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,11Sep2024stavh,11Sep2024,stav,h,N2,,11Sep2024stavh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wyweh,09Sep2024,wywe,h,snapshot,,09Sep2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wyweh,09Sep2024,wywe,h,N1,bee,09Sep2024wywehs1,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Symphyotrichum,chilense,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wyweh,09Sep2024,wywe,h,N2,,09Sep2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wywec,09Sep2024,wywe,c,snapshot,,09Sep2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wywec,09Sep2024,wywe,c,N1,,09Sep2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wywec,09Sep2024,wywe,c,N2,,09Sep2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wywenh,09Sep2024,wywe,nh,snapshot,,09Sep2024wywenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wywenh,09Sep2024,wywe,nh,N1,,09Sep2024wywenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024wywenh,09Sep2024,wywe,nh,N2,,09Sep2024wywenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024poofnh,09Sep2024,poof,nh,snapshot,,09Sep2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024poofnh,09Sep2024,poof,nh,N1,,09Sep2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,09Sep2024poofnh,09Sep2024,poof,nh,N2,,09Sep2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofc,08Sep2024,poof,c,snapshot,,08Sep2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofc,08Sep2024,poof,c,N1,,08Sep2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofc,08Sep2024,poof,c,N2,,08Sep2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024wewac,04Sep2024,wewa,c,snapshot,,04Sep2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024wewac,04Sep2024,wewa,c,N1,,04Sep2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024wewac,04Sep2024,wewa,c,N2,,04Sep2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024mpsunh,04Sep2024,mpsu,nh,snapshot,,04Sep2024mpsunh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024mpsunh,04Sep2024,mpsu,nh,N1,bee,04Sep2024mpsunhs1,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Eriogonum,latifolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024mpsunh,04Sep2024,mpsu,nh,N2,wasp,04Sep2024mpsunhp1,,,,,,,,Vespula,pensylvanica,wasp Vespula pensylvanica,04Sep2024mpsuNHp1,,,1,ground,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024mpsunh,04Sep2024,mpsu,nh,N2,wasp,04Sep2024mpsunhp2,,,,,,,,Vespula,pensylvanica,wasp Vespula pensylvanica,04Sep2024mpsuNHp2,,,1,,,,p2,yes,buzz around plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024mpsuh,04Sep2024,mpsu,h,snapshot,bee,04Sep2024mpsuh,,,,,,,,Apis,mellifera,bee Apis mellifera,,,,1,Grindelia,stricta,,,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024mpsuh,04Sep2024,mpsu,h,N1,,04Sep2024mpsuh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024mpsuh,04Sep2024,mpsu,h,N2,Hoverfly,04Sep2024mpsuh,,,,,,,,,,Hoverfly  ,,,,1,Grindelia,stricta,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgnh,08Sep2024,fscg,nh,snapshot,,08Sep2024fscgnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgnh,08Sep2024,fscg,nh,N1,,08Sep2024fscgnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgnh,08Sep2024,fscg,nh,N2,Unknown,08Sep2024fscgnhp1,,,,,,,,,,Unknown  ,08Sep2024fscgNHp1,,,1,Eriogonum,latifolium,,p1,yes,"likely some small, black wasp (DG)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,23Sep2024poofc,23Sep2024,poof,c,snapshot,,23Sep2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,23Sep2024poofc,23Sep2024,poof,c,N1,,23Sep2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,23Sep2024poofc,23Sep2024,poof,c,N2,,23Sep2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,21Aug2024poofh,21Aug2024,poof,h,snapshot,Hoverfly,21Aug2024poofh,,,,,,,,,,Hoverfly  ,,,,2,Symphyotrichum,chilense,,,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,21Aug2024poofh,21Aug2024,poof,h,N1,,21Aug2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,21Aug2024poofh,21Aug2024,poof,h,N2,,21Aug2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,snapshot,bee,08Sep2024fscgh,,,,,,,,Agapostemon,,bee Agapostemon ,,,,1,Grindelia,stricta,,,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,snapshot,bee,08Sep2024fscgh,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Symphyotrichum,chilense,,,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,snapshot,,08Sep2024fscgh,,,,,,,,"small, dark",," small, dark ",,,,1,Nepeta,cataria,,,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,snapshot,,08Sep2024fscgh,,,,,,,,Agapostemon,, Agapostemon ,,,,1,Nepeta,cataria,,,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N1,bee,08Sep2024fscgh,,,,,,,,Agapostemon,,bee Agapostemon ,,,,1,Nepeta,cataria,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N1,bee,08Sep2024fscgh,,,,,,,,,,bee  ,,,,1,Symphyotrichum,chilense,,,no,"missed; ""sweat"" bee",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N1,Unknown,08Sep2024fscghp1,,,,,,,,,,Unknown  ,08Sep2024fscgHp1,,,1,Perideridia,kellogii,,p1,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N1,bee,08Sep2024fscghp2,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,08Sep2024fscgHp2,,male,1,Symphyotrichum,chilense,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N1,bee,08Sep2024fscghs1,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Symphyotrichum,chilense,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N1,bee,08Sep2024fscghp3,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,08Sep2024fscgHp3,,male,1,Symphyotrichum,chilense,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N1,bee,08Sep2024fscghs2,08Sep2024fscgHs2,Halictidae,Lasioglossum (Dialictus),sp. 1 ,Lasioglossum (Dialictus) sp. 1 ,F,SymChi,"small, dark",,"bee small, dark ",,,,1,Symphyotrichum,chilense,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N2,bee,08Sep2024fscghp4,,,,,,,,Agapostemon,texanus,bee Agapostemon texanus,08Sep2024fscgHp4,,male,1,Symphyotrichum,chilense,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N2,bee,08Sep2024fscghs3,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Symphyotrichum,chilense,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N2,wasp,08Sep2024fscghp5,,,,,,,,Eumeninae,,wasp Eumeninae ,,,,1,Symphyotrichum,chilense,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024fscgh,08Sep2024,fscg,h,N2,wasp,08Sep2024fscgh,,,,,,,,Vespidae,,wasp Vespidae ,,,,1,Ground,,,,no,missed; yellow/black wasp,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofh,08Sep2024,poof,h,snapshot,,08Sep2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofh,08Sep2024,poof,h,N1,Hoverfly,08Sep2024poofhp1,,,,,,,,Eristalis,,Hoverfly Eristalis ,08Sep2024poofHp1,,,1,vegetation,,,p1,yes,on Grindelia stricta veg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofh,08Sep2024,poof,h,N1,Hoverfly,08Sep2024poofhp2,,,,,,,,Eristalis,,Hoverfly Eristalis ,08Sep2024poofHp2,,,1,Symphyotrichum,chilense,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofh,08Sep2024,poof,h,N2,bee,08Sep2024poofhs1,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Symphyotrichum,chilense,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofh,08Sep2024,poof,h,N2,bee,08Sep2024poofhs2,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Symphyotrichum,chilense,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08Sep2024poofh,08Sep2024,poof,h,N2,bee,08Sep2024poofhs3,08Sep2024poofHs3,Halictidae,Lasioglossum (Dialictus),tegulare group,Lasioglossum (Dialictus) tegulare group,F,SymChi,"small, dark",,"bee small, dark ",,,,1,Symphyotrichum,chilense,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,21Aug2024mpsuh,21Aug2024,mpsu,h,snapshot,fly,21Aug2024mpsuh,,,,,,,,,,fly  ,,,,1,Grindelia,stricta,,,no,"small fly, flew by",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,21Aug2024mpsuh,21Aug2024,mpsu,h,N1,bee,21Aug2024mpsuh,,,,,,,,"small, dark",,"bee small, dark ",,,,1,Grindelia,stricta,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,21Aug2024mpsuh,21Aug2024,mpsu,h,N1,Hoverfly,21Aug2024mpsuhp1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,21Aug2024mpsuHp1,,,1,Grindelia,stricta,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,21Aug2024mpsuh,21Aug2024,mpsu,h,N1,Hoverfly,21Aug2024mpsuhp2,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,21Aug2024mpsuHp2,,,1,Grindelia,stricta,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,21Aug2024mpsuh,21Aug2024,mpsu,h,N2,fly,21Aug2024mpsuh,,,,,,,,,,fly  ,,,,1,Symphyotrichum,chilense,,,no,"missed: ""dark fly""",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewah,01Jul2024,wewa,h,snapshot,,01Jul2024wewah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewah,01Jul2024,wewa,h,N1,Bee,01Jul2024wewahP1,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,01Jul2024wewahP1,"yellow face, yellow T4, yellow sternites",,1,Horkelia,californica,,P1,yes,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewah,01Jul2024,wewa,h,N1,Wasp,01Jul2024wewahP2,,,,,,,,Vespula,pensylvanica,Wasp Vespula pensylvanica,01Jul2024wewahP2,"black T1 diamond, full yellow goggles",,1,Grindelia,stricta,,P2,yes,veg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,snapshot,Bee ,01Jul2024wewanh,,,,,,,,Bombus,,Bee  Bombus ,,,,4,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,snapshot,Bee ,01Jul2024wewanh,,,,,,,,Bombus,,Bee  Bombus ,,,,3,Aeonium,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP1,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP1,"13 segments, yellow face, yellow T4, yellow sternites",male,1,Aeonium,,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP2,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP2,"13 segments, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP3,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP3,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP4,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP4,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Aeonium(yellow flower),,,P4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP5,,,,,,,,Bombus,vosnesenskii,Bee  Bombus vosnesenskii,01Jul2024wewanhP5,"pollen ball, yellow face, yellow T4, no yellow sternites",female,1,Aeonium(yellow flower),,pollen,P5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP6,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP6,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Aeonium(yellow flower),,,P6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Hoverfly,01Jul2024wewanh,,,,,,,,,,Hoverfly  ,,,,1,Ehrharta ,,,,missed,on the flower,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Aeonium(yellow flower),,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP7,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP7,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP8,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,01Jul2024wewanhP8,"12 segments, corbicula, yellow face, yellow T4, yellow sternites",female,1,Eriogonum,latifolium,,P8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N1,Bee ,01Jul2024wewanhP9,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP9,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Aeonium(yellow flower),,,P9,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N2,Bee ,01Jul2024wewanhP10,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,01Jul2024wewanhP10,"pollen ball, yellow face, yellow T4, yellow sternites",female,1,Aeonium(yellow flower),,pollen,P10,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N2,Bee ,01Jul2024wewanhP11,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,01Jul2024wewanhP11,"pollen ball, yellow face, yellow T4, yellow sternites",female,1,Aeonium(yellow flower),,pollen,P11,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N2,Bee ,01Jul2024wewanhP12,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP12,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P12,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewanh,01Jul2024,wewa,nh,N2,Bee ,01Jul2024wewanhP13,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024wewanhP13,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P13,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawac,14Aug2024,eawa,c,snapshot,Wasp,14Aug2024eawac,,,,,,,,,,Wasp  ,,,,1,Pittosporum,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawac,14Aug2024,eawa,c,snapshot,Wasp,14Aug2024eawac,,,,,,,,,,Wasp  ,,,,1,,,,,,fly through,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawac,14Aug2024,eawa,c,N1,Wasp,14Aug2024eawac,,,,,,,,,,Wasp  ,,,,1,,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawac,14Aug2024,eawa,c,N1,Wasp,14Aug2024eawac,,,,,,,,,,Wasp  ,,,,1,,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawac,14Aug2024,eawa,c,N1,Wasp,14Aug2024eawacP1,,,,,,,,Vespula,alascensis/germanica,Wasp Vespula alascensis/germanica,14Aug2024eawacP1,"short cheek, no yellow on scape",,1,Pittosporum,,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024foscc,15Jul2024,fosc,c,snapshot,,15Jul2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024foscc,15Jul2024,fosc,c,N1,Wasp,15Jul2024fosccP1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,15Jul2024fosccP1,"no black T1 diamond, no yellow check on back strap",,1,veg,,,P1,yes,on Rosa leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024foscc,15Jul2024,fosc,c,N2,,15Jul2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,snapshot,Bee ,01Jul2024eawanh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,snapshot,Bee ,01Jul2024eawanh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Hydrangea,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,snapshot,Hoverfly,01Jul2024eawanh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N1,Hoverfly,01Jul2024eawanhP1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,01Jul2024eawanhP1,,,1,Achillea,millefolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N1,Bee ,01Jul2024eawanhP2,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,01Jul2024eawanhP2,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Hydrangea,,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N1,Hoverfly,01Jul2024eawanhP3,,,,,,,,Allograpta,,Hoverfly Allograpta ,01Jul2024eawanhP3,,,1,Achillea,millefolium,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N1,Hoverfly,01Jul2024eawanhP4,,,,,,,,Eristalis,,Hoverfly Eristalis ,01Jul2024eawanhP4,,,1,Achillea,millefolium,,P4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N1,Wasp,01Jul2024eawanhP5,,,,,,,,Vespula,germanica,Wasp Vespula germanica,01Jul2024eawanhP5,"black T1 diamond, broken yellow goggles",,1,Limonium,,,P5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N1,Hoverfly,01Jul2024eawanhP6,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,01Jul2024eawanhP6,,,1,Achillea,millefolium,,P6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N2,Bee ,01Jul2024eawanhS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Hydrangea,,pollen on legs,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N2,Bee,01Jul2024eawanhS2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Hydrangea,,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N2,Hoverfly,01Jul2024eawanhP7,,,,,,,,Sphaerophoria,,Hoverfly Sphaerophoria ,01Jul2024eawanhP7,,,1,Achillea,millefolium,,P7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawanh,01Jul2024,eawa,nh,N2,Hoverfly,01Jul2024eawanhP8,,,,,,,,Toxomerus,occidentalis,Hoverfly Toxomerus occidentalis,01Jul2024eawanhP8,,,1,Achillea,millefolium,,P8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,snapshot,Bee ,27Jun2024wywenh,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Kniphofia,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,snapshot,Bee ,27Jun2024wywenh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N1,Bee ,27Jun2024wywenhP1,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,27Jun2024wywenhP1,"13 segments, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N1,Bee ,27Jun2024wywenhS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,veg,,,S1,yes,on Kniphofia leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N1,Bee ,27Jun2024wywenhS2,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Kniphofia,,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N1,Bee ,27Jun2024wywenhS3,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Achillea,millefolium,,S3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N1,Bee ,27Jun2024wywenhS4,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N1,Bee ,27Jun2024wywenhS5,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N1,Bee ,27Jun2024wywenhS6,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N1,Bee ,27Jun2024wywenhP2,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,27Jun2024wywenhP2,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,27Jun2024wywenh,27Jun2024,wywe,nh,N2,Bee ,27Jun2024wywenhS7,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagoc,21Aug2024,pago,c,snapshot,,21Aug2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagoc,21Aug2024,pago,c,N1,Wasp,21Aug2024pagocP1,,,,,,,,Vespula,pensylvanica,Wasp Vespula pensylvanica,21Aug2024pagocP1,"black T1 diamond, full goggles",,1,veg,,,P1,yes,on Malva leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagoc,21Aug2024,pago,c,N1,Wasp ,21Aug2024pagocP2,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,21Aug2024pagocP1,"black T1 diamond, full goggles",,1,veg,,,P2,yes,on Grevellia lanigera leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagoc,21Aug2024,pago,c,N1,Hoverfly,21Aug2024pagocP3,,,,,,,,Sphaerophoria,,Hoverfly Sphaerophoria ,21Aug2024pagocP3,,,1,Grevillea ,lanigera,,P3,yes, ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavnh,19Aug2024,stav,nh,snapshot,,19Aug2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavnh,19Aug2024,stav,nh,N1,,19Aug2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavnh,19Aug2024,stav,nh,N2,Bee ,19Aug2024stavnhP1,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,19Aug2024stavnhP1,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavnh,19Aug2024,stav,nh,N2,Bee ,19Aug2024stavnh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Agapanthus,praecox,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,snapshot,Hoverfly,23Jul2024mpsunh,,,,,,,,,,Hoverfly  ,,,,2,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,snapshot,Wasp,23Jul2024mpsunh,,,,,,,,Vespula,,Wasp Vespula ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,snapshot,Wasp ,23Jul2024mpsunh,,,,,,,,Vespula,,Wasp  Vespula ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,snapshot,Bee ,23Jul2024mpsunh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,snapshot,Bee ,23Jul2024mpsunh,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N1,Bee ,23Jul2024mpsunhS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N1,Hoverfly,23Jul2024mpsunhP1,,,,,,,,Eristalis,,Hoverfly Eristalis ,23Jul2024mpsunhP1,,,1,Achillea,millefolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N1,Bee ,23Jul2024mpsunh,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N1,Bee/wasp,23Jul2024mpsunhS2,,,,,,,,"small, dark",,"Bee/wasp small, dark ",,,,1,Achillea,millefolium,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N1,Bee,23Jul2024mpsunhS3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,S3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N1,Hoverfly,23Jul2024mpsunhP2,,,,,,,,Sphaerophoria,,Hoverfly Sphaerophoria ,23Jul2024mpsunhP2,,,1,Eriogonum,latifolium,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N1,Bee,23Jul2024mpsunhP3,,,,,,,,Agapostemon,texanus,Bee Agapostemon texanus,23Jul2024mpsunhP3,"black and yellow stripped, outter tibia marking, no fat thigh",male,1,Monardella,villosa,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N1,Hoverfly,23Jul2024mpsunh,,,,,,,,,,Hoverfly  ,,,,1,Calystegia,purpurata,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N2,Bee,23Jul2024mpsunhS4,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Monardella,villosa,,S4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N2,Bee,23Jul2024mpsunhP4,,,,,,,,Bombus,vosnesenskii,Bee Bombus vosnesenskii,23Jul2024mpsunhP4,"corbicula, yellow face, yellow T4, no yellow sternites",female,1,Monardella,villosa,,P4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N2,Bee ,23Jul2024mpsunh,,,,,,,,Agapostemon,,Bee  Agapostemon ,,,,1,Monardella,villosa,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N2,Bee,23Jul2024mpsunhP5,,,,,,,,Bombus,vosnesenskii,Bee Bombus vosnesenskii,23Jul2024mpsunhP5,"corbicula, yellow face, yellow T4, no yellow sternites",female,1,Eriogonum,latifolium,,P5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N2,Bee,23Jul2024mpsunh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N2,Bee,23Jul2024mpsunhP6,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,23Jul2024mpsunhP6,"no corbicula, yellow face, yellow T4, yellow sternites",male,1,Eriogonum,latifolium,,P6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N2,Bee,23Jul2024mpsunhS5,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,S5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsunh,23Jul2024,mpsu,nh,N2,Bee,23Jul2024mpsunhP7,,,,,,,,Agapostemon,texanus,Bee Agapostemon texanus,23Jul2024mpsunhP7,"black and yellow stripped, outter tibia marking, no fat thigh",male,1,Monardella,villosa,,P7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewanh,05Aug2024,wewa,nh,snapshot,Bee ,05Aug2024wewanh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewanh,05Aug2024,wewa,nh,N1,Bee,05Aug2024wewanhP1,,,,,,,,Bombus,vosnesenskii,Bee Bombus vosnesenskii,05Aug2024wewanhP1,"yellow face, yellow T4, no yellow sternites",female,1,Eriogonum,latifolium,pollen on legs,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewanh,05Aug2024,wewa,nh,N1,Hoverfly,05Aug2024wewanhP2,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,08Aug2024wewanhP2,,,1,,,,P2,yes,hovering above Eriogonum latifolium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewanh,05Aug2024,wewa,nh,N1,Bee ,05Aug2024wewanhP3,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,08Aug2024wewanhP2,"yellow face, yellow T4, 13 antennal segments",male,1,Eriogonum,latifolium,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewanh,05Aug2024,wewa,nh,N1,Hoverfly,05Aug2024wewanh,,,,,,,,,,Hoverfly  ,,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewanh,05Aug2024,wewa,nh,N2,,05Aug2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024wewah,01Sep2024,wewa,h,snapshot,Bee,01Sep2024wewah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024wewah,01Sep2024,wewa,h,snapshot,Wasp ,01Sep2024wewah,,,,,,,,,,Wasp   ,,,,1,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024wewah,01Sep2024,wewa,h,N1,Wasp,01Sep2024wewahP1,,,,,,,,Eumeninae,,Wasp Eumeninae ,01Sep2024wewahP1,"no T1 diamond, no back strap",,1,Symphyotrichum,chilense,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024wewah,01Sep2024,wewa,h,N2,Hoverfly,01Sep2024wewahP2,,,,,,,,Allograpta,,Hoverfly Allograpta ,01Sep2024wewahP2,,,1,Symphyotrichum,chilense,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,snapshot,Wasp ,12Aug2024mpsunh,,,,,,,,,,Wasp   ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,snapshot,Hoverfly,12Aug2024mpsunh,,,,,,,,,,Hoverfly  ,,,,1,Monardella,villosa,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,snapshot,Wasp ,12Aug2024mpsunh,,,,,,,,,,Wasp   ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,N1,Bee,12Aug2024mpsunhS1,12Aug2024mpsuNHs1,Halictidae,Lasioglossum (Dialictus),sp. MA,Lasioglossum (Dialictus) sp. MA,M,AchMil,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,N1,Wasp ,12Aug2024mpsunhP1,,,,,,,,Eumeninae,,Wasp  Eumeninae ,12Aug2024mpsunhP1,"no T1 diamond, no back strap",,1,Eriogonum,latifolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,N1,Wasp ,12Aug2024mpsunh,,,,,,,,,,Wasp   ,,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,N1,Wasp ,12Aug2024mpsunh,,,,,,,,,,Wasp   ,,,,1,Monardella,villosa,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,N2,Wasp ,12Aug2024mpsunhP2,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,12Aug2024mpsunhP2,"T1 diamond, full goggles",,1,veg,,,P2,yes,Calystegia purpurata leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,N2,Hoverfly,12Aug2024mpsunhP3,,,,,,,,Eupeodes,volicris,Hoverfly Eupeodes volicris,12Aug2024mpsunhP3,,,1,Achillea,millefolium,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsunh,12Aug2024,mpsu,nh,N2,Wasp ,12Aug2024mpsunhP4,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,12Aug2024mpsunhP4,"T1 diamond, full goggles",,1,veg,,,P4,yes,Calystegia purpurata leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,snapshot,Bee,07Aug2024lileh,,,,,,,,"small, dark",,"Bee small, dark ",,,,3,Calandrinia,grandiflora,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N1,Bee,07Aug2024lileh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N1,Bee,07Aug2024lilehS1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N1,Bee ,07Aug2024lileh,,,,,,,,Agapostemon,,Bee  Agapostemon ,,,,1,Calandrinia,grandiflora,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N1,Bee,07Aug2024lilehP1,,,,,,,,Agapostemon,texanus,Bee Agapostemon texanus,07Aug2024lilehP1,"dark mark outter tibia, no fat thigh",male,1,,,,P1,yes,in plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N1,Bee,07Aug2024lilehP2,,,,,,,,Agapostemon,texanus,Bee Agapostemon texanus,07Aug2024lilehP2,"dark mark outter tibia, no fat thigh",male,1,Calandrinia,grandiflora,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N1,Bee ,07Aug2024lileh,,,,,,,,Agapostemon,,Bee  Agapostemon ,,,,1,Calandrinia,grandiflora,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N1,Bee,07Aug2024lilehP3,,,,,,,,Agapostemon,texanus,Bee Agapostemon texanus,07Aug2024lilehP3,"dark mark outter tibia, no fat thigh",male,1,Symphyotrichum,chilense,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N2,Bee,07Aug2024lilehP4,,,,,,,,Agapostemon,texanus,Bee Agapostemon texanus,07Aug2024lilehP4,"dark mark outter tibia, no fat thigh",male,1,Grindelia,hirsitula,,P4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N2,Hoverfly,07Aug2024lilehP5,,,,,,,,,,Hoverfly  ,07Aug2024lilehP5,,,1,Grindelia,hirsitula,,P5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N2,Bee,07Aug2024lilehS2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,hirsitula,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N2,Bee,07Aug2024lileh,,,,,,,,Agapostemon,,Bee Agapostemon ,,,,1,Grindelia,hirsitula,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N2,Bee,07Aug2024lileh,,,,,,,,Agapostemon,,Bee Agapostemon ,,,,1,Grindelia,hirsitula,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lileh,07Aug2024,lile,h,N2,Hoverfly,07Aug2024lilehP6,,,,,,,,Sphaerophoria,,Hoverfly Sphaerophoria ,07Aug2024lilehP6,,,1,veg,,,P6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawac,05Aug2024,eawa,c,snapshot,,05Aug2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawac,05Aug2024,eawa,c,N1,Wasp ,05Aug2024eawacP1,,,,,,,,Vespula,germanica,Wasp  Vespula germanica,05Aug2024eawacP1,"Black T1 diamond, broken goggles",,1,veg,,,P1,yes,Pittosporum leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawac,05Aug2024,eawa,c,N2,Wasp ,05Aug2024eawacP2,,,,,,,,Vespula,alascensis,Wasp  Vespula alascensis,05Aug2024eawacP2,"no T1 diamond, continous yellow T1, back strap, no yellow check",,1,Pittosporum,,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawac,05Aug2024,eawa,c,N2,Wasp ,05Aug2024eawacP2,,,,,,,,Vespula,alascensis,Wasp  Vespula alascensis,05Aug2024eawacP3,"no T1 diamond, continous yellow T1, back strap, no yellow check",,1,Pittosporum,,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fsgcnh,19Aug2024,fsgc,nh,snapshot,Wasp ,19Aug2024fsgcnh,,,,,,,,,,Wasp   ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fsgcnh,19Aug2024,fsgc,nh,snapshot,Hoverfly,19Aug2024fsgcnh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fsgcnh,19Aug2024,fsgc,nh,N1,Hoverfly,19Aug2024fsgcnh,,,,,,,,,,Hoverfly  ,,,,1,,,,,missed,flying by Dahlia leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fsgcnh,19Aug2024,fsgc,nh,N1,Wasp ,19Aug2024fsgcnhP1,,,,,,,,Vespula,alascensis,Wasp  Vespula alascensis,19AugfscgnhP1,"no T1 diamond, back straps, no check",,1,Dahlia,,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fsgcnh,19Aug2024,fsgc,nh,N1,Bee,19Aug2024fsgcnhS1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fsgcnh,19Aug2024,fsgc,nh,N1,Bee,19Aug2024fsgcnh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fsgcnh,19Aug2024,fsgc,nh,N2,unsure,19Aug2024fsgcnh,,,,,,,,,,unsure  ,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoc,18Sep2024,pago,c,snapshot,Wasp ,18Sep2024pagoc,,,,,,,,,,Wasp   ,,,,5,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoc,18Sep2024,pago,c,N1,Wasp ,18Sep2024pagocP1,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,18Sep2024pagocP1,"T1 diamond, full goggles",,1,Grevillea,lanigera,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoc,18Sep2024,pago,c,N1,Wasp ,18Sep2024pagocP2,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,18Sep2024pagocP2,"T1 diamond, full goggles",,1,Grevillea,lanigera,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoc,18Sep2024,pago,c,N1,Wasp ,18Sep2024pagocP3,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,18Sep2024pagocP3,"T1 diamond, full goggles",,1,Grevillea,lanigera,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoc,18Sep2024,pago,c,N1,Wasp ,18Sep2024pagocP4,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,18Sep2024pagocP4,"T1 diamond, full goggles",,1,Grevillea,lanigera,,P4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoc,18Sep2024,pago,c,N2,Wasp ,18Sep2024pagocP5,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,18Sep2024pagocP5,"T1 diamond, full goggles",,1,Grevillea,lanigera,,P5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoc,18Sep2024,pago,c,N2,Wasp ,18Sep2024pagocP6,,,,,,,,Vespula,pensylvanica,Wasp  Vespula pensylvanica,18Sep2024pagocP6,"T1 diamond, full goggles",,1,Grevillea,lanigera,,P6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,03Jun2024fosch,03Jun2024,fosc,h,snapshot,,03Jun2024fosch,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,03Jun2024fosch,03Jun2024,fosc,h,N1,Bee ,03Jun2024foschP1,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,03Jun2024foschP1,"13 segments, yellow T4, yellow face, yellow sternites",male,1,Vicia,sativa,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,03Jun2024fosch,03Jun2024,fosc,h,N2,,03Jun2024fosch,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,03Jun2024eawac,03Jun2024,eawa,c,snapshot,,03Jun2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,03Jun2024eawac,03Jun2024,eawa,c,N1,,03Jun2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,03Jun2024eawac,03Jun2024,eawa,c,N2,Bee ,03Jun2024eawacP1,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,03Jun2024eawacP1,"13 segments, no corbicula, yellow face, yellow T4",male,1,Pittosporum,,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Oct2024stavnh,02Oct2024,stav,nh,snapshot,,02Oct2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Oct2024stavnh,02Oct2024,stav,nh,N1,,02Oct2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Oct2024stavnh,02Oct2024,stav,nh,N2,,02Oct2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,06Apr2024wywec,06Apr2024,wywe,c,snapshot,,06Apr2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,06Apr2024wywec,06Apr2024,wywe,c,N1,,06Apr2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,06Apr2024wywec,06Apr2024,wywe,c,N2,,06Apr2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,06Apr2024wyweh,06Apr2024,wywe,h,snapshot,Bee ,06Apr2024wyweh,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,,,,1,,,,,,buzzing around plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,06Apr2024wyweh,06Apr2024,wywe,h,N1,,06Apr2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,06Apr2024wyweh,06Apr2024,wywe,h,N2,,06Apr2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Apr2024fscgc,29Apr2024,fscg,c,snapshot,,29Apr2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Apr2024fscgc,29Apr2024,fscg,c,N1,,29Apr2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Apr2024fscgc,29Apr2024,fscg,c,N2,,29Apr2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Apr2024fscgnh,29Apr2024,fscg,nh,snapshot,,29Apr2024fscgnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Apr2024fscgnh,29Apr2024,fscg,nh,N1,,29Apr2024fscgnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Apr2024fscgnh,29Apr2024,fscg,nh,N2,Bee ,29Apr2024fscgnh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Borago,officinalis,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Jun2024foscc,02Jun2024,fosc,c,snapshot,,02Jun2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Jun2024foscc,02Jun2024,fosc,c,N1,,02Jun2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Jun2024foscc,02Jun2024,fosc,c,N2,,02Jun2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagonh,08May2024,pago,nh,snapshot,Hoverfly,08May2024pagonh,,,,,,,,,,Hoverfly  ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagonh,08May2024,pago,nh,N1,Bee ,08May2024pagonhP1,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,08May2024pagonhP1,"yellow face, yellow T4, no corbicula",male,1,,,,P1,yes,hovering around plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagonh,08May2024,pago,nh,N1,Hoverfly,08May2024pagonhP2,,,,,,,,Allograpta,,Hoverfly Allograpta ,08May2024pagonhP2,,,1,Geranium,dissectum,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagonh,08May2024,pago,nh,N1,Hoverfly,08May2024pagonhP3,,,,,,,,Eupeodes,fumipennis,Hoverfly Eupeodes fumipennis,08May2024pagonhP3,,,1,veg,,,P3,yes,on grass,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagonh,08May2024,pago,nh,N1,Hoverfly,08May2024pagonhP4,,,,,,,,Toxomerus,marginatus,Hoverfly Toxomerus marginatus,08May2024pagonhP4,,,1,Geranium,dissectum,,P4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagonh,08May2024,pago,nh,N2,,08May2024pagonh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,snapshot,small bee,14Aug2024eawanh,,,,,,,,,,small bee  ,,,,5,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,N1,Bee ,14Aug2024eawanh,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,N1,Hoverfly,14Aug2024eawanhP1,,,,,,,,Erastalis,,Hoverfly Erastalis ,14Aug2024eawanhP1,,,1,Achillea,millefolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,N1,Bee ,14Aug2024eawanh,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,N1,Hoverfly,14Aug2024eawanh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,N1,unknown,14Aug2024eawanh,,,,,,,,,,unknown  ,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,N1,unknown,14Aug2024eawanh,,,,,,,,,,unknown  ,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,N2,Bee ,14Aug2024eawanhS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Achillea,millefolium,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawanh,14Aug2024,eawa,nh,N2,Hoverfly,14Aug2024eawanhP2,,,,,,,,Eupeodes,fumipennis,Hoverfly Eupeodes fumipennis,14Aug2024eawanhP2,,,1,Achillea,millefolium,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,snapshot,Hoverfly,21Aug2024pagonh,,,,,,,,,,Hoverfly  ,,,,1,Carrot,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,snapshot,Hoverfly,21Aug2024pagonh,,,,,,,,,,Hoverfly  ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,snapshot,Bee ,21Aug2024pagonh,,,,,,,,,,Bee   ,,,,3,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,snapshot,Hoverfly,21Aug2024pagonh,,,,,,,,,,Hoverfly  ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,snapshot,Bee ,21Aug2024pagonh,,,,,,,,,,Bee   ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,N1,Hoverfly,21Aug2024pagonhP1,,,,,,,,Eristalis,,Hoverfly Eristalis ,21Aug2024pagonhP1,,,1,Achillea,millefolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,N1,Bee ,21Aug2024pagonhS1,,,,,,,,"small, fuzzy",,"Bee  small, fuzzy ",,,,1,Achillea,millefolium,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,N1,Bee ,21Aug2024pagonhS2,,,,,,,,"small, fuzzy",,"Bee  small, fuzzy ",,,,1,Eriogonum,latifolium,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,N1,Hoverfly,21Aug2024pagonhP2,,,,,,,,Allograpta,,Hoverfly Allograpta ,21Aug2024pagonhP2,,,1,Achillea,millefolium,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,N1,Hoverfly,21Aug2024pagonh,,,,,,,,,,Hoverfly  ,,,,1,Carrot,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,N2,Bee ,21Aug2024pagonhS3,,,,,,,,"small, fuzzy",,"Bee  small, fuzzy ",,,,1,Eriogonum,latifolium,,S3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,21Aug2024pagonh,21Aug2024,pago,nh,N2,Hoverfly,21Aug2024pagonhP3,,,,,,,,Syritta,,Hoverfly Syritta ,21Aug2024pagonhP3,,,1,Eriogonum,latifolium,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jul2024pagoh,10Jul2024,pago,h,snapshot,,10Jul2024pagoh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jul2024pagoh,10Jul2024,pago,h,N1,Bee ,10Jul2024pagohS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,ground,,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jul2024pagoh,10Jul2024,pago,h,N2,Bee ,10Jul2024pagoh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Phacelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jul2024pagoh,10Jul2024,pago,h,N2,Bee ,10Jul2024pagohS2,,,,,,,,"small, dark, yellow belly",,"Bee  small, dark, yellow belly ",,,,1,ground,,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jul2024pagoh,10Jul2024,pago,h,N2,Hoverfly,10Jul2024pagohP1,,,,,,,,"dark, white belly",,"Hoverfly dark, white belly ",,,,1,Grevillea,lanigera,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,snapshot,Butterfly,7Aug2024foscnh,,,,,,,,cabbage white,,Butterfly cabbage white ,,,,1,veg,,,,,on Fragaria vesca leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N1,Bee ,7Aug2024foscnhS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N1,Bee ,7Aug2024foscnhS2,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N1,Bee ,7Aug2024foscnhS3,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N1,Bee ,7Aug2024foscnhS4,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S4,yes,on same flower as S5 and caught in the same swing as S5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N1,Bee ,7Aug2024foscnhS5,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S5,yes,on same flower as S4 and caught in the same swing as S4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N1,Bee ,7Aug2024foscnhS6,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N1,Bee ,7Aug2024foscnhS7,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N2,Bee ,7Aug2024foscnh,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,7Aug2024foscnh,7Aug2024,fosc,nh,N2,Bee ,7Aug2024foscnhS8,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Eriogonum,latifolium,,S8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024pagoc,01Sep2024,pago,c,snapshot,,01Sep2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024pagoc,01Sep2024,pago,c,N1,,01Sep2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024pagoc,01Sep2024,pago,c,N2,Bee ,01Sep2024pagocS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,Grevillea,lanigera,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavh,19Aug2024,stav,h,snapshot,Bee ,19Aug2024stavh,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,on stick on ground,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavh,19Aug2024,stav,h,N1,,19Aug2024stavh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavh,19Aug2024,stav,h,N2,Bee ,19Aug2024stavhS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,on stick on ground,,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fscgc,19Aug2024,fscg,c,snapshot,,19Aug2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fscgc,19Aug2024,fscg,c,N1,Bee ,19Aug2024fscgcS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,on ground/woodchips,,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fscgc,19Aug2024,fscg,c,N2,,19Aug2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawah,05Aug2024,eawa,h,snapshot,Bee ,05Aug2024eawah,,,,,,,,Bombus,,Bee  Bombus ,,,,1,,,,,,On bark?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawah,05Aug2024,eawa,h,N1,,05Aug2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawah,05Aug2024,eawa,h,N2,,05Aug2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024fosch,07Aug2024,fosc,h,snapshot,,07Aug2024fosch,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024fosch,07Aug2024,fosc,h,N1,,07Aug2024fosch,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024fosch,07Aug2024,fosc,h,N2,Bee,07Aug2024foschS1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Symphyotrichum,chilense,pollen,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024fosch,07Aug2024,fosc,h,N2,Bee,07Aug2024foschS2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Symphyotrichum,chilense,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024fosch,07Aug2024,fosc,h,N2,Bee,07Aug2024foschS3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,hirsitula,,S3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wyweh,29Jul2024,wywe,h,snapshot,,29Jul2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wyweh,29Jul2024,wywe,h,N1,,29Jul2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wyweh,29Jul2024,wywe,h,N2,,29Jul2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewah,14Aug2024,wewa,h,snapshot,,14Aug2024wewah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewah,14Aug2024,wewa,h,N1,Hoverfly,14Aug2024wewahP1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,14Aug2024wewahP1,,,1,Calandrinia,grandiflora,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewah,14Aug2024,wewa,h,N2,,14Aug2024wewah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewah,01May2024,wewa,h,snapshot,,01May2024wewah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewah,01May2024,wewa,h,N1,,01May2024wewah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewah,01May2024,wewa,h,N2,Hoverfly,01May2024wewahP1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,01May2024wewahP1,,,1,Pelargonium,,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewac,01May2024,wewa,c,snapshot,,01May2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewac,01May2024,wewa,c,N1,Fly,01May2024wewacP1,,,,,,,,,,Fly  ,01May2024wewacP1,,,1,Oxalis,pes-caprae,,P1,yes,"Stilleto fly, Thervidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewac,01May2024,wewa,c,N2,,01May2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofc,15Jul2024,poof,c,snapshot,,15Jul2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofc,15Jul2024,poof,c,N1,,15Jul2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofc,15Jul2024,poof,c,N2,Hoverfly,15Jul2024poofcP1,,,,,,,,Eupeodes,fumipennis,Hoverfly Eupeodes fumipennis,15Jul2024poofcP1,,,1,veg,,,P1,yes,Cistus (no flower),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024wewanh,01Sep2024,wewa,nh,snapshot,,01Sep2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024wewanh,01Sep2024,wewa,nh,N1,Hoverfly,01Sep2024wewanh,,,,,,,,,,Hoverfly  ,01Sep2024wewanhP1,,,1,ground,,,,,not sure if this is actually a hoverfly,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Sep2024wewanh,01Sep2024,wewa,nh,N2,unknown bee/wasp,01Sep2024wewanh,,,,,,,,,,unknown bee/wasp  ,,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawanh,05Aug2024,eawa,nh,snapshot,,05Aug2024eawanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawanh,05Aug2024,eawa,nh,N1,Hoverfly,05Aug2024eawanhP1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,05Aug2024eawanhP1,,,1,Achillea,millefolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024eawanh,05Aug2024,eawa,nh,N2,,05Aug2024eawanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofnh,12Aug2024,poof,nh,snapshot,Fly,12Aug2024poofnh,,,,,,,,"small, black",,"Fly small, black ",,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofnh,12Aug2024,poof,nh,N1,Bee,12Aug2024poofnhS1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofnh,12Aug2024,poof,nh,N2,,12Aug2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lilenh,07Aug2024,lile,nh,snapshot,Hoverfly,07Aug2024lilenh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lilenh,07Aug2024,lile,nh,N1,,07Aug2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lilenh,07Aug2024,lile,nh,N2,,07Aug2024lilenh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsuc,23Jul2024,mpsu,c,snapshot,Bee ,23Jul2024mpsuc,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,,,,,,buzzing around plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsuc,23Jul2024,mpsu,c,N1,Bee ,23Jul2024mpsucS1,,,,,,,,"small, dark",,"Bee  small, dark ",,,,1,veg,,,S1,yes,Acacia melanoxylon leaf (no flowers),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,23Jul2024mpsuc,23Jul2024,mpsu,c,N2,,23Jul2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,31Jul2024stavnh,31Jul2024,stav,nh,snapshot,,31Jul2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,31Jul2024stavnh,31Jul2024,stav,nh,N1,Bee ,31Jul2024stavnh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,31Jul2024stavnh,31Jul2024,stav,nh,N2,,31Jul2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wywenh,14Aug2024,wywe,nh,snapshot,Bee ,14Aug2024wywenh,,,,,,,,Bombus,,Bee  Bombus ,,,,1,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavc,19Aug2024,stav,c,snapshot,,19Aug2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavc,19Aug2024,stav,c,N1,Humming bird,19Aug2024stavc,,,,,,,,,,Humming bird  ,,,,1,,,,,,hovered by Hydrangea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024stavc,19Aug2024,stav,c,N2,,19Aug2024stavc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewanh,14Aug2024,wewa,nh,snapshot,Hoverfly,14Aug2024wewanh,,,,,,,,,,Hoverfly  ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewanh,14Aug2024,wewa,nh,N1,,14Aug2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewanh,14Aug2024,wewa,nh,N2,Wasp,14Aug2024wewanh,,,,,,,,,,Wasp  ,,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsuh,12Aug2024,mpsu,h,snapshot,Hoverfly,12Aug2024mpsuh,,,,,,,,,,Hoverfly  ,,,,1,Grindelia,stricta,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsuh,12Aug2024,mpsu,h,N1,,12Aug2024mpsuh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsuh,12Aug2024,mpsu,h,N2,,12Aug2024mpsuh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsuc,12Aug2024,mpsu,c,snapshot,,12Aug2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsuc,12Aug2024,mpsu,c,N1,,12Aug2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024mpsuc,12Aug2024,mpsu,c,N2,,12Aug2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewac,14Aug2024,wewa,c,snapshot,,14Aug2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewac,14Aug2024,wewa,c,N1,,14Aug2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wewac,14Aug2024,wewa,c,N2,,14Aug2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewac,05Aug2024,wewa,c,snapshot,,05Aug2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewac,05Aug2024,wewa,c,N1,,05Aug2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewac,05Aug2024,wewa,c,N2,,05Aug2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofc,12Aug2024,poof,c,snapshot,,12Aug2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofc,12Aug2024,poof,c,N1,,12Aug2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,12Aug2024poofc,12Aug2024,poof,c,N2,,12Aug2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024foscnh,19Aug2024,fosc,nh,snapshot,,19Aug2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024foscnh,19Aug2024,fosc,nh,N1,,19Aug2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024foscnh,19Aug2024,fosc,nh,N2,,19Aug2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofnh,15Jul2024,poof,nh,snapshot,,15Jul2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofnh,15Jul2024,poof,nh,N1,,15Jul2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofnh,15Jul2024,poof,nh,N2,,15Jul2024poofnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Oct2024foscnh,02Oct2024,fosc,nh,snapshot,,02Oct2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Oct2024foscnh,02Oct2024,fosc,nh,N1,,02Oct2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,02Oct2024foscnh,02Oct2024,fosc,nh,N2,,02Oct2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawah,14Aug2024,eawa,h,snapshot,,14Aug2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawah,14Aug2024,eawa,h,N1,,14Aug2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024eawah,14Aug2024,eawa,h,N2,,14Aug2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wywec,14Aug2024,wywe,c,snapshot,,14Aug2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wywec,14Aug2024,wywe,c,N1,,14Aug2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,14Aug2024wywec,14Aug2024,wywe,c,N2,,14Aug2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wyweh,29Jul2024,wywe,h,snapshot,,29Jul2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wyweh,29Jul2024,wywe,h,N1,,29Jul2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wyweh,29Jul2024,wywe,h,N2,,29Jul2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wywec,29Jul2024,wywe,c,snapshot,,29Jul2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wywec,29Jul2024,wywe,c,N1,,29Jul2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024wywec,29Jul2024,wywe,c,N2,,29Jul2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoh,18Sep2024,pago,h,snapshot,,18Sep2024pagoh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoh,18Sep2024,pago,h,N1,,18Sep2024pagoh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,18Sep2024pagoh,18Sep2024,pago,h,N2,,18Sep2024pagoh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagoc,08May2024,pago,c,snapshot,,08May2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagoc,08May2024,pago,c,N1,,08May2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08May2024pagoc,08May2024,pago,c,N2,,08May2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024foscc,19Aug2024,fosc,c,snapshot,,19Aug2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024foscc,19Aug2024,fosc,c,N1,,19Aug2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024foscc,19Aug2024,fosc,c,N2,,19Aug2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewac,01Jul2024,wewa,c,snapshot,,01Jul2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewac,01Jul2024,wewa,c,N1,,01Jul2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wewac,01Jul2024,wewa,c,N2,,01Jul2024wewac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawah,01Jul2024,eawa,h,snapshot,,01Jul2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawah,01Jul2024,eawa,h,N1,,01Jul2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawah,01Jul2024,eawa,h,N2,,01Jul2024eawah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawac,01Jul2024,eawa,c,snapshot,,01Jul2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawac,01Jul2024,eawa,c,N1,,01Jul2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024eawac,01Jul2024,eawa,c,N2,,01Jul2024eawac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wywec,01Jul2024,wywe,c,snapshot,,01Jul2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wywec,01Jul2024,wywe,c,N1,,01Jul2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01Jul2024wywec,01Jul2024,wywe,c,N2,,01Jul2024wywec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024foscc,07Aug2024,fosc,c,snapshot,,07Aug2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024foscc,07Aug2024,fosc,c,N1,,07Aug2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024foscc,07Aug2024,fosc,c,N2,,07Aug2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lilec,07Aug2024,lile,c,snapshot,,07Aug2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lilec,07Aug2024,lile,c,N1,,07Aug2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,07Aug2024lilec,07Aug2024,lile,c,N2,,07Aug2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jul2024pagoc,10Jul2024,pago,c,snapshot,,10Jul2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jul2024pagoc,10Jul2024,pago,c,N1,,10Jul2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jul2024pagoc,10Jul2024,pago,c,N2,,10Jul2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofh,15Jul2024,poof,h,snapshot,,15Jul2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofh,15Jul2024,poof,h,N1,,15Jul2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,15Jul2024poofh,15Jul2024,poof,h,N2,,15Jul2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewanh,01May2024,wewa,nh,snapshot,,01May2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewanh,01May2024,wewa,nh,N1,,01May2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,01May2024wewanh,01May2024,wewa,nh,N2,,01May2024wewanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewah,05Aug2024,wewa,h,snapshot,,05Aug2024wewah,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewah,05Aug2024,wewa,h,N1,Bee,05Aug2024wewah,,,,,,,,Bombus,,Bee Bombus ,,,,1,,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewah,05Aug2024,wewa,h,N1,Hoverfly,05Aug2024wewahP1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,05Aug2024wewahP1,,,1,Gindelia ,hirsitula,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,05Aug2024wewah,05Aug2024,wewa,h,N2,Hoverfly,05Aug2024wewahP2,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,05Aug2024wewahP2,,,1,Calandrina,grandiflora,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fscgh,19Aug2024,fscg,h,snapshot,small bee,19Aug2024fscgh,,,,,,,,,,small bee  ,,,,1,Nepeta,cataria,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fscgh,19Aug2024,fscg,h,N1,Hoverfly,19Aug2024fscghP1,,,,,,,,,,Hoverfly  ,19Aug2024fscghP1,,,1,Nepeta,cataria,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fscgh,19Aug2024,fscg,h,N2,small bee,19Aug2024fscghS1,,,,,,,,,,small bee  ,,,,1,veg,,,S1,yes,on woodchips by Nepeta cataria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fscgh,19Aug2024,fscg,h,N2,Bee,19Aug2024fscghP2,,,,,,,,Agapostemon,texanus,Bee Agapostemon texanus,19Aug2024fscghP2,"black and yellow stripes, no fat femur, dark mark outter tibia",male,1,Symphiotrichum,chilense,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Apr2024stavh,08Apr2024,stav,h,snapshot,Bee,08Apr2024stavh,,,,,,,,Bombus,,Bee Bombus ,,,,1,Phacilia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Apr2024stavh,08Apr2024,stav,h,N1,Bee,08Apr2024stavhP1,,,,,,,,Bombus,vosnesenskii,Bee Bombus vosnesenskii,08Apr2024stavhP1,"yellow face, yellow T4, no yellow on sternites",female,1,Phacilia,californica,pollen,P1,yes,Blurry pictures,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Apr2024stavh,08Apr2024,stav,h,N1,Bee,08Apr2024stavhP2,,,,,,,,Bombus,caliginosus,Bee Bombus caliginosus,08Apr2024stavhP2,"12 antennal segments, corbicula, yellow face, yellow T4, yellow on sternites",female,1,Phacilia,californica,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Apr2024stavh,08Apr2024,stav,h,N1,Bee,08Apr2024stavhP3,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,08Apr2024stavhP3,,female,1,Phacilia,californica,pollen,P3,yes,Blurry pictures,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Apr2024stavh,08Apr2024,stav,h,N1,Bee ,08Apr2024stavhP4,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,08Apr2024stavhP4,"yellow face, yellow T4, yellow on sternites,  corbicula",female,1,Phacilia,californica,,P4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Apr2024stavh,08Apr2024,stav,h,N1,Bee ,08Apr2024stavhP5,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,08Apr2024stavhP5,"yellow face, yellow T4, yellow on sternites",,1,Phacilia,californica,pollen,P5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Apr2024stavh,08Apr2024,stav,h,N1,Bee ,08Apr2024stavhP6,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,08Apr2024stavhP6,"yellow on sternites, 12 antennal segments, corbicula, yellow face, yellow T4",female,1,Phacilia,californica,,P6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Apr2024stavh,08Apr2024,stav,h,N2,Bee ,08Apr2024stavhP7,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,08Apr2024stavhP7,"yellow on sternites, 12 antennal segments, corbicula, yellow face, yellow T4",female,1,Phacilia,californica,,P7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,snapshot,Bee ,24Jun2024stavh,,,,,,,,Bombus,,Bee  Bombus ,,,,2,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N1,Bee ,24Jun2024stavhP1,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,24Jun2024stavhP1,"13 segments, yellow face, yellow T4",male,1,Horkelia,californica,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N1,Wasp,24Jun2024stavhP2,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,24Jun2024stavhP2,"no T1 diamond, T1 continuous yellow",,1,Phacilia,californica,,P2,yes,"on dead,dry flower",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N1,Bombus,24Jun2024stavhP3,,,,,,,,Bombus,vos/calig,Bombus Bombus vos/calig,24Jun2024stavhP3,"13 segments, yellow face, yellow T4",male,1,Horkelia,californica,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N1,Wasp,24Jun2024stavhP4,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,24Jun2024stavhP4,"no T1 diamond, T1 continuous yellow",,1,Horkelia,californica,,P4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N1,Bee ,24Jun2024stavhP5,,,,,,,,Bombus,vosnesenskii,Bee  Bombus vosnesenskii,24Jun2024stavhP5,"no yellow on sternites, yellow face, yellow T4",female,1,Horkelia,californica,pollen,P5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N1,Wasp,24Jun2024stavhP6,,,,,,,,Dolicovespula,arenaria,Wasp Dolicovespula arenaria,24Jun2024stavhP6,"no yellow T1 diamond, yellow check on back straps",,1,veg,,,P6,yes,on leaves of Symphiotrichum chilense,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N1,Bee ,24Jun2024stavhP7,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,24Jun2024stavhP7,"no corbicula, yellow face, yellow T4",male,1,Horkelia,californica,,P7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N1,Bee ,24Jun2024stavhP8,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,24Jun2024stavhP7,"yellow sternites, yellow face, yellow T4",female,1,Horkelia,californica,pollen,P8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,24Jun2024stavh,24Jun2024,stav,h,N2,Bee ,24Jun2024stavhP9,,,,,,,,Bombus,vos/calig,Bee  Bombus vos/calig,24Jun2024stavhP9,yellow under hair,can' determine,1,Horkelia,californica,,P9,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,26Jun2024wyweh,26Jun2024,wywe,h,snapshot,Bee ,26Jun2024wyweh,,,,,,,,Bombus,,Bee  Bombus ,,,,2,Hebe,speciosa,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,26Jun2024wyweh,26Jun2024,wywe,h,N1,Bee,26Jun2024wywehP1,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,26Jun2024wywehP1,"13 segments, yellow face, yellow T4",male,1,Hebe,speciosa,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,26Jun2024wyweh,26Jun2024,wywe,h,N1,Bee,26Jun2024wywehP2,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,26Jun2024wywehP2,"13 segments, yellow face, yellow T4",male,1,Hebe,speciosa,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,26Jun2024wyweh,26Jun2024,wywe,h,N1,Bee ,26Jun2024wywehP3,,,,,,,,Bombus,vosnesenskii,Bee  Bombus vosnesenskii,26Jun2024wywehP3,"corbicula, 12 segments, yellow face, yellow T4, no yellow sternites",female,1,Hebe ,speciosa,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,26Jun2024wyweh,26Jun2024,wywe,h,N2,,26Jun2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jun2024mpsunh,10Jun2024,mpsu,nh,snapshot,,10Jun2024mpsunh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jun2024mpsunh,10Jun2024,mpsu,nh,N1,Hoverfly,10Jun2024mpsunh,,,,,,,,,,Hoverfly  ,,,,1,Calystegia,purpurata,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jun2024mpsunh,10Jun2024,mpsu,nh,N1,Bee ,10Jun2024mpsunhP1,,,,,,,,Bombus,caliginosus,Bee  Bombus caliginosus,10Jun2024mpsunhP1,"yellow T4, yellow face, yellow sternites",female,1,Achillea,millefolium,pollen,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jun2024mpsunh,10Jun2024,mpsu,nh,N2,Hoverfly,10Jun2024mpsunhP2,,,,,,,,,,Hoverfly  ,10Jun2024mpsunhP2,,,1,,,,P2,yes,on ground,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,10Jun2024mpsunh,10Jun2024,mpsu,nh,N2,Hoverfly,10Jun2024mpsunh,,,,,,,,,,Hoverfly  ,,,,1,Calandrina,menziesii,,,missed,red,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,snapshot,Wasp,08Jul2024pagonh,,,,,,,,,,Wasp  ,08Jul2024pagonhP1,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,snapshot,Hoverfly,08Jul2024pagonh,,,,,,,,,,Hoverfly  ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,N1,Wasp,08Jul2024pagonhP1,,,,,,,,Eumeninae,,Wasp Eumeninae ,08Jul2024pagonhP1,"no back straps, no goggles, yellow at the beginning of the antenna",,1,Achillea,millefolium,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,N1,Wasp or Bee,08Jul2024pagonhS2,,,,,,,,,,Wasp or Bee  ,,,,1,Achillea,millefolium,,S2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,N1,Wasp,08Jul2024pagonhP2,,,,,,,,Eumeninae ?,,Wasp Eumeninae ? ,08Jul2024pagonhP2,looks different from all other wasps,,1,Anthriscus?,,,P2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,N1,Hoverfly,08Jul2024pagonhP3,,,,,,,,,,Hoverfly  ,08Jul2024pagonhP3,,,1,Anthriscus?,,,P3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,N1,Hoverfly,08Jul2024pagonhP4,,,,,,,,,,Hoverfly  ,08Jul2024pagonhP4,,,1,Anthriscus?,,,P4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,N1,Bee or Wasp,08Jul2024pagonhS1,,,,,,,,,,Bee or Wasp  ,,,,1,Anthriscus?,,,S1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,N2,Bee,08Jul2024pagonh,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,08Jul2024pagonh,08Jul2024,pago,nh,N2,Hoverfly,08Jul2024pagonhP5,,,,,,,,,,Hoverfly  ,08Jul2024pagonhP5,,,1,Achillea,millefolium,,P5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024ymcac,29Jul2024,ymca,c,snapshot,,29Jul2024ymcac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024ymcac,29Jul2024,ymca,c,N1,Hoverfly,29Jul2024ymcac,,,,,,,,,,Hoverfly  ,,,,1,Grevillea,lanigera,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024ymcac,29Jul2024,ymca,c,N2,small black fly,29Jul2024ymcac,,,,,,,,,,small black fly  ,,,,1,Grevillea,lanigera,,,,no photo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,29Jul2024ymcac,29Jul2024,ymca,c,N2,Wasp,29Jul2024ymcacP1,,,,,,,,Vespula,pensylvanica,Wasp Vespula pensylvanica,29Jul2024ymcacP1,"T1 diamond, full yellow goggles",,1,,,,P1,yes,on wood chips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fosch,19Aug2024,fosc,h,snapshot,Bee,19Aug2024fosch,,,,,,,,Bombus,,Bee Bombus ,,,,1,Grindelia,hirsitula,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fosch,19Aug2024,fosc,h,N1,Bee,19Aug2024foschP1,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,No photo packet can't find pictures,"yellow T4, yellow face, yellow sternites, no corbicula, 13 segments",male,1,Grindelia,hirsitula,,P1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MC,19Aug2024fosch,19Aug2024,fosc,h,N2,,19Aug2024fosch,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,snapshot,Hoverfly,26Aug2024lileh,,,,,,,,,,Hoverfly  ,,,,1,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,snapshot,,26Aug2024lileh,,,,,,,,Agapostemon,,,,,,1,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,N1,Bee,26Aug2024lilehp1,,,,,,,,Agapostemon,Texanus,Bee Agapostemon Texanus,,"dark line on tibia, half green",male,1,Symphyotrichum,chilense,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,N1,Bee,26Aug2024lilehp2,,,,,,,,Agapostemon,Texanus,Bee Agapostemon Texanus,,"dark line on tibia, half green",male,1,Symphyotrichum,chilense,,p2,yes,"?dark green, maybe Angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,N1,Bee,26Aug2024lilehp3,,,,,,,,Agapostemon,Texanus,Bee Agapostemon Texanus,,"dark line on tibia, half green",male,1,Symphyotrichum,chilense,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,N1,Hoverfly,26Aug2024lilehp4,,,,,,,,Cheilosia,,Hoverfly Cheilosia ,26Aug2024lileHp4,,,1,Grindelia,hirsitula,,p4,yes,not positive about Genus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,N2,Bee,26Aug2024lileh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Symphyotrichum,chilense,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,N2,Unknown,26Aug2024lilehp5,,,,,,,,,,Unknown  ,26Aug2024lileHp5,,,1,Grindelia,hirsitula,,p5,yes,not a hoverfly,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,26Aug2024lileh,26Aug2024,lile,h,N2,Bee,26Aug2024lilehp6,,,,,,,,Agapostemon,Texanus,Bee Agapostemon Texanus,,"dark line on tibia, half green",male,1,Symphyotrichum,chilense,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,snapshot,?,07Aug2024foscnh,,,,,,,,?,,? ? ,,,,1,Fragaria,vesca,,,,on leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N1,Bee,07Aug2024foscnhs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N1,Bee,07Aug2024foscnhs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N1,Bee,07Aug2024foscnhs3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N1,Bee,07Aug2024foscnhs4,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s4,yes,on leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N1,Bee,07Aug2024foscnhs5,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N1,Bee,07Aug2024foscnhs6,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N1,Bee,07Aug2024foscnhs7,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N2,Bee,07Aug2024foscnh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,07Aug2024foscnh,07Aug2024,fosc,nh,N2,Bee,07Aug2024foscnhs8,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024foscc,03Jun2024,fosc,c,snapshot,,03Jun2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024foscc,03Jun2024,fosc,c,N1,,03Jun2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024foscc,03Jun2024,fosc,c,N2,,03Jun2024foscc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,19Aug2024fscgnh,19Aug2024,fscg,nh,snapshot,Wasp,19Aug2024fscgnh,,,,,,,,,,Wasp  ,,,,1,Eriogonum,latifolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,19Aug2024fscgnh,19Aug2024,fscg,nh,snapshot,Hoverfly,19Aug2024fscgnh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,19Aug2024fscgnh,19Aug2024,fscg,nh,N1,Hoverfly,19Aug2024fscgnh,,,,,,,,,,Hoverfly  ,,,,1,Dahlia,,,,missed,flying leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,19Aug2024fscgnh,19Aug2024,fscg,nh,N1,Wasp,19Aug2024fscgnhp1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,19AugfscgnhP1,"no diamond, backstraps, no checkmark",,1,Dahlia,,,p1,yes,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,19Aug2024fscgnh,19Aug2024,fscg,nh,N1,Bee,19Aug2024fscgnhs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,19Aug2024fscgnh,19Aug2024,fscg,nh,N1,Bee,19Aug2024fscgnh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,19Aug2024fscgnh,19Aug2024,fscg,nh,N2,Unsure,19Aug2024fscgnh,,,,,,,,,,Unsure  ,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,14Aug2024wyweh,14Aug2024,wywe,h,snapshot,Bee,14Aug2024wyweh,,,,,,,,Bombus,,Bee Bombus ,,,,1,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,14Aug2024wyweh,14Aug2024,wywe,h,N1,,14Aug2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,14Aug2024wyweh,14Aug2024,wywe,h,N2,,14Aug2024wyweh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024pagonh,18Sep2024,pago,nh,snapshot,Wasp,18Sep2024pagonh,,,,,,,,Vespula,,Wasp Vespula ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024pagonh,18Sep2024,pago,nh,N1,Wasp,18Sep2024pagonhp1,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,18Sep2024pagoNHp1,"diamond on T1, full goggles, yellow on scapes",,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024pagonh,18Sep2024,pago,nh,N1,Wasp,18Sep2024pagonhp2,,,,,,,,Vespula,germanica,Wasp Vespula germanica,18Sep2024pagoNHp2,"diamond, broken goggles",,1,Grevillea,lanigera,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024pagonh,18Sep2024,pago,nh,N1,Wasp,18Sep2024pagonh,,,,,,,,Vespula,,Wasp Vespula ,,,,1,Grevillea,lanigera,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024pagonh,18Sep2024,pago,nh,N2,Wasp,18Sep2024pagonhp3,,,,,,,,Vespula,pennsylvanica,Wasp Vespula pennsylvanica,18Sep2024pagoNHp3,"diamond, full goggles, yellow on scapes",,1,Grevillea,lanigera,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,18Sep2024pagonh,18Sep2024,pago,nh,N2,Wasp,18Sep2024pagonh,,,,,,,,Vespula,,Wasp Vespula ,,,,1,Grevillea,lanigera,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,snapshot,,24Jun2024fscgh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N1,Bee,24Jun2024fscghs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Cataria,nepeta,,s1,yes,leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N1,Bee,24Jun2024fscghs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Cataria,nepeta,,s2,yes,leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N2,Unknown,24Jun2024fscgh,,,,,,,,"small, dark",,"Unknown small, dark ",,,,1,Phacelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N2,Bee,24Jun2024fscghp1,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,"shaggy, yellow T4 & S4, 13 flagimere cells",male,1,Horkelia,californica,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N2,Bee,24Jun2024fscghs3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Phacelia,californica,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N2,Bee,24Jun2024fscgh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Fragaria,,,,missed,leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N2,Bee,24Jun2024fscghs4,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,ground,,,s4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N2,Bee,24Jun2024fscghs5,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,ground,,,s5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgh,24Jun2024,fscg,h,N2,Bee,24Jun2024fscghs6,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Phacelia,californica,,s6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgc,24Jun2024,fscg,c,snapshot,,24Jun2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgc,24Jun2024,fscg,c,N1,,24Jun2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgc,24Jun2024,fscg,c,N2,,24Jun2024fscgc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,snapshot,Hoverfly,24Jun2024fscgnh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,snapshot,Unknown,24Jun2024fscgnh,,,,,,,,,,Unknown  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,snapshot,Bee/Wasp,24Jun2024fscgnh,,,,,,,,,,Bee/Wasp  ,,,,1,Digitalis (white),,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N1,Hoverfly,24Jun2024fscgnh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N1,Hoverfly,24Jun2024fscgnh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N2,Bee,24Jun2024fscgnh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,,misseed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N2,Bee,24Jun2024fscgnhs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Digitalis (white),,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N2,Bee,24Jun2024fscgnhs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Digitalis (white),,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N2,Bee,24Jun2024fscgnhs3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N2,Bee,24Jun2024fscgnhs4,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,s4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N2,Bee,24Jun2024fscgnhs5,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,s5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,24Jun2024fscgnh,24Jun2024,fscg,nh,N2,Bee,24Jun2024fscgnhs6,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,s6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Jun2024stavnh,25Jun2024,stav,nh,snapshot,,25Jun2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Jun2024stavnh,25Jun2024,stav,nh,N1,Wasp,25Jun2024stavnhp1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,25Jun2024stavNHp1,"continuous yellow, no diamond, backstraps",,1,Hydrangea,quercifolia,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Jun2024stavnh,25Jun2024,stav,nh,N1,Hoverfly,25Jun2024stavnhp2,,,,,,,,Allograpta,,Hoverfly Allograpta ,25Jun2024stavNHp2,,,1,Achillea,millefolium,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,25Jun2024stavnh,25Jun2024,stav,nh,N2,Bee,25Jun2024stavnh,,,,,,,,Bombus,,Bee Bombus ,,,,1,Sidalcea,malviflora,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Jul2024pagoc,31Jul2024,pago,c,snapshot,,31Jul2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Jul2024pagoc,31Jul2024,pago,c,N1,,31Jul2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Jul2024pagoc,31Jul2024,pago,c,N2,,31Jul2024pagoc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024lilec,22May2024,lile,c,snapshot,,22May2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024lilec,22May2024,lile,c,N1,,22May2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024lilec,22May2024,lile,c,N2,,22May2024lilec,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Apr2024stavnh,08Apr2024,stav,nh,snapshot,,08Apr2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Apr2024stavnh,08Apr2024,stav,nh,N1,,08Apr2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,08Apr2024stavnh,08Apr2024,stav,nh,N2,,08Apr2024stavnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,12Aug2024shtac,12Aug2024,shta,c,snapshot,,12Aug2024shtac,,,,,,,,,,,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,12Aug2024shtac,12Aug2024,shta,c,N1,,12Aug2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,12Aug2024shtac,12Aug2024,shta,c,N2,,12Aug2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtac,27Aug2024,shta,c,snapshot,,27Aug2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtac,27Aug2024,shta,c,N1,,27Aug2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtac,27Aug2024,shta,c,N2,,27Aug2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtac,31Mar2024,shta,c,snapshot,,31Mar2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtac,31Mar2024,shta,c,N1,,31Mar2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtac,31Mar2024,shta,c,N2,,31Mar2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,snapshot,Bee,23Sep2024shtah,,,,,,,,"small, dark",,"Bee small, dark ",,,,2,Grindelia,stricta,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,snapshot,Butterfly,23Sep2024shtah,,,,,,,,fiery skipper,,Butterfly fiery skipper ,,,,1,Symphyotrichum,chilense,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Bee,23Sep2024shtah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,NZ flax leaves?,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Bee,23Sep2024shtahs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,stricta,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Bee,23Sep2024shtahp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,,corbicula,female,1,Grindelia,stricta,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Bee,23Sep2024shtahp2,,,,,,,,Apis,mellifera,Bee Apis mellifera,,corbicula,female,1,Symphyotrichum,chilense,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Bee,23Sep2024shtahp3,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Grindelia,stricta,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Bee,23Sep2024shtah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,stricta,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Butterfly,23Sep2024shtahp4,,,,,,,,fiery skipper,,Butterfly fiery skipper ,,,,1,Grindelia,stricta,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Butterfly,23Sep2024shtahp5,,,,,,,,fiery skipper,,Butterfly fiery skipper ,,,,1,Symphyotrichum,chilense,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N1,Bee,23Sep2024shtahs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,stricta,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N2,Bee,23Sep2024shtah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,stricta,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N2,Unknown,23Sep2024shtah,,,,,,,,,,Unknown  ,,,,1,Grindelia,stricta,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N2,Bombus,23Sep2024shtahp6,,,,,,,,,vos/calig,Bombus  vos/calig,,"13 flagimere cells, T4 yellow, yellow sternites",male,1,Grindelia,stricta,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N2,Bee,23Sep2024shtah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,stricta,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N2,Bee/Wasp,23Sep2024shtah,,,,,,,,striped,,Bee/Wasp striped ,,,,1,Grindelia,stricta,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N2,Bee,23Sep2024shtah,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Grindelia,stricta,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtah,23Sep2024,shta,h,N2,Bee,23Sep2024shtah,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grindelia,stricta,,,missed,on leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,snapshot,Hoverfly,17Jun2024shtah,,,,,,,,,,Hoverfly  ,,,,1,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,snapshot,Bombus,17Jun2024shtah,,,,,,,,,,Bombus  ,,,,2,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N1,Bombus,17Jun2024shtahp1,,,,,,,,,vosnesenskii,Bombus  vosnesenskii,,"yellow face and thorax, but not yellow underneath",female,1,Horkelia,californica,,p1,yes,pollen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N1,Bombus,17Jun2024shtahp2,,,,,,,,,vosnesenskii,Bombus  vosnesenskii,,"yellow face and thorax, but not yellow underneath",female,1,Horkelia,californica,,p2,yes,pollen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N1,Bombus,17Jun2024shtahp3,,,,,,,,,vosnesenskii,Bombus  vosnesenskii,,"yellow face and thorax, but not yellow underneath",female,1,Horkelia,californica,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N1,Bombus,17Jun2024shtahp4,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow face and thorax, yellow underside, no corbicula",male,1,Horkelia,californica,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N1,Bombus,17Jun2024shtahp5,,,,,,,,,melanopygus,Bombus  melanopygus,,"T1 & T4 yellow, center of thorax is surrounded by yellow, corbicula",female,1,Horkelia,californica,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N1,Bombus,17Jun2024shtahp6,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow face and thorax, yellow underside, no corbicula",male,1,Horkelia,californica,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N1,Bee,17Jun2024shtahs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Horkelia,californica,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N1,Bee,17Jun2024shtah,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N2,Bombus,17Jun2024shtahp7,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow face and thorax, yellow underside, no corbicula",male,1,Horkelia,californica,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N2,Bombus,17Jun2024shtahp8,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow face and thorax, yellow underside, no corbicula",male,1,Horkelia,californica,,p8,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N2,Bombus,17Jun2024shtahp9,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow face and thorax, yellow underside, no corbicula",male,1,Horkelia,californica,,p9,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N2,Bombus,17Jun2024shtah,,,,,,,,,,Bombus  ,,,,1,Horkelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtah,17Jun2024,shta,h,N2,Bee,17Jun2024shtahp10,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Horkelia,californica,,p10,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtac,16Jul2024,shta,c,snapshot,Bee,16Jul2024shtac,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtac,16Jul2024,shta,c,N1,Bee,16Jul2024shtac,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grevillea,lanigera,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtac,16Jul2024,shta,c,N1,Hoverfly,16Jul2024shtacp1,,,,,,,,,,Hoverfly  ,16Jul2024shtaCp1,,,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtac,16Jul2024,shta,c,N2,,16Jul2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Apr2024fscgh,29Apr2024,fscg,h,snapshot,,29Apr2024fscgh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Apr2024fscgh,29Apr2024,fscg,h,N1,Bombus,29Apr2024fscghp1,,,,,,,,,vosnesenskii,Bombus  vosnesenskii,,"yellow face & thorax, no yellow underneath, corbicula",female,1,ground,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Apr2024fscgh,29Apr2024,fscg,h,N1,Bombus,29Apr2024fscgh,,,,,,,,,,Bombus  ,,,,1,Phacelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Apr2024fscgh,29Apr2024,fscg,h,N1,Bombus,29Apr2024fscghp2,,,,,,,,,melanopygus,Bombus  melanopygus,,"T1 & T4 yellow, center of thorax surrounded by yellow, no corbicula",male,1,Kniphofia,,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,29Apr2024fscgh,29Apr2024,fscg,h,N2,Hoverfly,29Apr2024fscghp3,,,,,,,,,,Hoverfly  ,29Apr2024fscgHp3,,,1,Fragaria,vesca,,p3,yes,on leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtanh,31Mar2024,shta,nh,snapshot,,31Mar2024shtanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtanh,31Mar2024,shta,nh,N1,Bombus,31Mar2024shtanh,,,,,,,,,,Bombus  ,,,,1,,,,,missed,fly through,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtanh,31Mar2024,shta,nh,N1,Bee/Wasp,31Mar2024shtanhs1,,,,,,,,"small, thin",,"Bee/Wasp small, thin ",,,,1,Achillea,millefolium,,s1,yes,buzz around,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtanh,31Mar2024,shta,nh,N1,Butterfly,31Mar2024shtanh?,,,,,,,,common checkered-skipper,,Butterfly common checkered-skipper ,,,,1,Oxalis,pes-caprae,,?,?,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtanh,31Mar2024,shta,nh,N2,Bombus,31Mar2024shtanhp1,,,,,,,,,melanopygus,Bombus  melanopygus,,"T1 & T4 yellow, center of thorax surrounded by yellow, corbicula",female,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,31Mar2024shtanh,31Mar2024,shta,nh,N2,Bee/Wasp,31Mar2024shtanhs1,,,,,,,,"small, thin",,"Bee/Wasp small, thin ",,,,1,Calystegia,purpurata,,s1,yes,on leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtanh,17Jun2024,shta,nh,snapshot,Hoverfly,17Jun2024shtanh,,,,,,,,,,Hoverfly  ,,,,1,Calandrinia,grandiflora,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtanh,17Jun2024,shta,nh,N1,Bombus,17Jun2024shtanhp1,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow T4, underneath, face & front of thorax, no corbicula",male,1,Calandrinia,grandiflora,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtanh,17Jun2024,shta,nh,N1,Hoverfly,17Jun2024shtanhp2,,,,,,,,,,Hoverfly  ,17Jun2024shtaNHp2,,,1,Calandrinia,grandiflora,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtanh,17Jun2024,shta,nh,N1,Bombus,17Jun2024shtanhp3,,,,,,,,,vosnesenskii,Bombus  vosnesenskii,,"yellow T4, yellow face and thorax, not yellow under, corbicula",female,1,Calandrinia,grandiflora,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtanh,17Jun2024,shta,nh,N1,Hoverfly,17Jun2024shtanh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtanh,17Jun2024,shta,nh,N2,,17Jun2024shtanh,,,,,,,,,,,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15Jul2024shtanh,15Jul2024,shta,nh,snapshot,,15Jul2024shtanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15Jul2024shtanh,15Jul2024,shta,nh,N1,Wasp,15Jul2024shtanhp1,,,,,,,,Eumeninae,,Wasp Eumeninae ,15Jul2024shtaNHp1,"no diamond, no backstraps, dark thorax",,1,Achillea,millefolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15Jul2024shtanh,15Jul2024,shta,nh,N1,Hoverfly,15Jul2024shtanhp2,,,,,,,,,,Hoverfly  ,15Jul2024shtaNHp2,,,1,Calandrinia,grandiflora,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15Jul2024shtanh,15Jul2024,shta,nh,N2,Bee,15Jul2024shtanhs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,s1,yes,on stem,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15Jul2024shtanh,15Jul2024,shta,nh,N2,Bee,15Jul2024shtanhs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15Jul2024shtanh,15Jul2024,shta,nh,N2,Hoverfly,15Jul2024shtanhp3,,,,,,,,,,Hoverfly  ,15Jul2024shtaNHp3,,,1,Calandrinia,grandiflora,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15Jul2024shtanh,15Jul2024,shta,nh,N2,Bee,15Jul2024shtanhs3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtanh,23Sep2024,shta,nh,snapshot,Butterfly,23Sep2024shtanh,,,,,,,,,,Butterfly  ,,,,1,Calandrinia,grandiflora,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtanh,23Sep2024,shta,nh,N1,Hoverfly,23Sep2024shtanhp1,,,,,,,,,,Hoverfly  ,23Sep2024shtaNHp1,,,1,Calystegia,purpurata,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtanh,23Sep2024,shta,nh,N2,Bee,23Sep2024shtanhs1,23Sep2024shtaNHs1,Halictidae,Lasioglossum (Dialictus),sp. 1,Lasioglossum (Dialictus) sp. 1,F,CalGra,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,snapshot,Bee,27Aug2024shtanh,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Calandrinia,grandiflora,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,snapshot,Bee,27Aug2024shtanh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Bee,27Aug2024shtanhp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Bee,27Aug2024shtanhp2,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Calandrinia,grandiflora,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Bee,27Aug2024shtanh,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Grevillea,lanigera,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Bee,27Aug2024shtanhp3,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Calandrinia,grandiflora,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Bee,27Aug2024shtanhs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Wasp,27Aug2024shtanh,,,,,,,,unknown,,Wasp unknown ,,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Bee,27Aug2024shtanhp4,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Calandrinia,grandiflora,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Bee,27Aug2024shtanhs2,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,s2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N1,Bee,27Aug2024shtanhp5?,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Calandrinia,grandiflora,,p5?,?,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N2,Bee,27Aug2024shtanhp6,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Grevillea,lanigera,,p6,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N2,Bee,27Aug2024shtanh,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Calandrinia,grandiflora,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N2,Bee,27Aug2024shtanhp7,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Grevillea,lanigera,,p7,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N2,Bee,27Aug2024shtanhs3,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,s3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,27Aug2024shtanh,27Aug2024,shta,nh,N2,Bee,27Aug2024shtanhs4,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Calandrinia,grandiflora,,s4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,12Aug2024shtanh,12Aug2024,shta,nh,snapshot,,12Aug2024shtanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,12Aug2024shtanh,12Aug2024,shta,nh,N1,Bee,12Aug2024shtanh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Eriogonum,latifolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,12Aug2024shtanh,12Aug2024,shta,nh,N2,,12Aug2024shtanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtac,17Jun2024,shta,c,snapshot,,17Jun2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtac,17Jun2024,shta,c,N1,Wasp,17Jun2024shtacp1,,,,,,,,Vespula,?,Wasp Vespula ?,17Jun2024shtaCp1,,,1,Grevillea,lanigera,,p1,yes,Can't tell species by pictures,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtac,17Jun2024,shta,c,N1,Bee,17Jun2024shtacs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Grevillea,lanigera,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,17Jun2024shtac,17Jun2024,shta,c,N2,,17Jun2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtah,16Jul2024,shta,h,snapshot,Bombus,16Jul2024shtah,,,,,,,,,,Bombus  ,,,,3,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtah,16Jul2024,shta,h,snapshot,Hoverfly,16Jul2024shtah,,,,,,,,,,Hoverfly  ,,,,1,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtah,16Jul2024,shta,h,N1,Bombus,16Jul2024shtahp1,,,,,,,,,caliginosus,Bombus  caliginosus,,"T4 yellow, front thorax and face yellow, yellow under",female,1,Horkelia,californica,,p1,yes,pollen ball,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtah,16Jul2024,shta,h,N1,Bombus,16Jul2024shtahp2,,,,,,,,,vos/calig,Bombus  vos/calig,,"T4 yellow, front thorax and face yellow, yellow under, no corbicula",male,1,Horkelia,californica,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtah,16Jul2024,shta,h,N1,Hoverfly,16Jul2024shtahp3,,,,,,,,,,Hoverfly  ,16Jul2024shtaHp3,,,1,Grindelia,hirsitula,,p3,yes,landed on leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtah,16Jul2024,shta,h,N2,Bombus,16Jul2024shtahp4,,,,,,,,,vos/calig,Bombus  vos/calig,,"T4 yellow, front thorax and face yellow, yellow under, no corbicula",male,1,Horkelia,californica,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,16Jul2024shtah,16Jul2024,shta,h,N2,Bombus,16Jul2024shtahp5,,,,,,,,,vosnesenskii,Bombus  vosnesenskii,,"yellow T4, yellow face and thorax, not yellow under",female,1,Horkelia,californica,,p5,yes,pollen ball,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtac,23Sep2024,shta,c,snapshot,,23Sep2024shtac,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtac,23Sep2024,shta,c,N1,Wasp,23Sep2024shtacp1,,,,,,,,Vespula,alascensis,Wasp Vespula alascensis,23Sep2024shtaCp1,"no diamond on T1, backstraps, no checkmark",,1,Grevillea,lanigera,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,23Sep2024shtac,23Sep2024,shta,c,N2,Bird,23Sep2024shtac,,,,,,,,Anna's hummingbird,,Bird Anna's hummingbird ,,,,NA,Grevillea,lanigera,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15May2024lileh,15May2024,lile,h,snapshot,,15May2024lileh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15May2024lileh,15May2024,lile,h,N1,Hoverfly,15May2024lilehp1,,,,,,,,,,Hoverfly  ,15May2024lileHp1,,,1,Calandrinia,grandiflora,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15May2024lileh,15May2024,lile,h,N1,Hoverfly,15May2024lilehp2,,,,,,,,,,Hoverfly  ,15May2024lileHp2,,,1,Calandrinia,grandiflora,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15May2024lileh,15May2024,lile,h,N1,Bombus,15May2024lilehp3,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow T4, sternites, face and thorax, no corbicula",male,1,Phacelia,californica,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15May2024lileh,15May2024,lile,h,N1,Bombus,15May2024lilehp4,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow T4, sternites, face and thorax, no corbicula",male,1,Horkelia,californica,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15May2024lileh,15May2024,lile,h,N1,Bombus,15May2024lileh,,,,,,,,,,Bombus  ,,,,1,Aloe,arborescens,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15May2024lileh,15May2024,lile,h,N2,Hoverfly,15May2024lileh,,,,,,,,,,Hoverfly  ,,,,1,Phacelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,15May2024lileh,15May2024,lile,h,N2,Bombus,15May2024lileh,,,,,,,,,,Bombus  ,,,,1,Geranium,dissectum,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024lilenh,22May2024,lile,nh,snapshot,Unknown,22May2024lilenh,,,,,,,,,,Unknown  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024lilenh,22May2024,lile,nh,N1,Bee,22May2024lilenhs1,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024lilenh,22May2024,lile,nh,N1,Bee,22May2024lilenh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Fragaria,chiloensis,,,missed,on leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024lilenh,22May2024,lile,nh,N2,Hoverfly,22May2024lilenhp1,,,,,,,,,,Hoverfly  ,22May2024lileNHp1,,,1,Sidalcea,malviflora,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,22May2024lilenh,22May2024,lile,nh,N2,Bee,22May2024lilenh,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,Achillea,millefolium,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024eawah,03Jun2024,eawa,h,snapshot,Bombus,03Jun2024eawah,,,,,,,,,,Bombus  ,,,,2,Lantana,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024eawah,03Jun2024,eawa,h,snapshot,Bombus,03Jun2024eawah,,,,,,,,,,Bombus  ,,,,1,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024eawah,03Jun2024,eawa,h,N1,Bombus,03Jun2024eawahp1,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow T4, face, thorax, underneath, no corbicula",male,1,Lantana,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024eawah,03Jun2024,eawa,h,N1,Bombus,03Jun2024eawahp2,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow T4, face, thorax, underneath, no corbicula",male,1,Horkelia,californica,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024eawah,03Jun2024,eawa,h,N1,Bombus,03Jun2024eawah,,,,,,,,,,Bombus  ,,,,1,Horkelia,californica,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,03Jun2024eawah,03Jun2024,eawa,h,N2,Bombus,03Jun2024eawahp3,,,,,,,,,vos/calig,Bombus  vos/calig,,"yellow T4, face, thorax, underneath, no corbicula",male,1,Lantana,,,p3,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024pagoh,01Sep2024,pago,h,snapshot,Hoverfly,01Sep2024pagoh,,,,,,,,,,Hoverfly  ,,,,1,ground,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024pagoh,01Sep2024,pago,h,N1,,01Sep2024pagoh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AD,01Sep2024pagoh,01Sep2024,pago,h,N2,Bee,01Sep2024pagoh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,ground,,,,missed,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Jun2024eawanh,03Jun2024,eawa,nh,snapshot,Hoverfly,03Jun2024eawanh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,no,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Jun2024eawanh,03Jun2024,eawa,nh,N1,,03Jun2024eawanh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Jun2024eawanh,03Jun2024,eawa,nh,N2,Wasp,03Jun2024eawanhp1,,,,,,,,Dolicovespula,arenaria,Wasp Dolicovespula arenaria,03Jun2024eawanhP1,"checkmark, broken goggles, T1 yellow interrupted",,1,Achillea,millefolium,,p1,yes,Vespula? Or paper wasp - hover around leaves mostly,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Jun2024eawanh,03Jun2024,eawa,nh,N2,Bee,03Jun2024eawanh,,,,,,,,"small, dark",,"Bee small, dark ",,,,1,Achillea,millefolium,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Jun2024foscnh,03Jun2024,fosc,nh,snapshot,Bee,03Jun2024foscnh,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,,,,1,Eriogonum,latifolium,,,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Jun2024foscnh,03Jun2024,fosc,nh,N1,Bee,03Jun2024foscnhp1,,,,,,,,Bombus,,Bee Bombus ,03Jun2024foscNHp1,,,1,Eriogonum,latifolium,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,03Jun2024foscnh,03Jun2024,fosc,nh,N2,,03Jun2024foscnh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08May2024pagoh,08May2024,pago,h,snapshot,,08May2024pagoh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08May2024pagoh,08May2024,pago,h,N1,fly,08May2024pagohp1,,,,,,,,,,fly  ,08May2024pagoHp1,,,1,ground,,,p1,yes,Therevidae; Stilleto fly,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,08May2024pagoh,08May2024,pago,h,N2,Bee,08May2024pagohs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,ground,,,s1,yes,woodchips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagoh,31Jul2024,pago,h,snapshot,,31Jul2024pagoh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagoh,31Jul2024,pago,h,N1,Bee,31Jul2024pagohs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,ground,,,s1,yes,woodchips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagoh,31Jul2024,pago,h,N2,,31Jul2024pagoh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024pagonh,04Sep2024,pago,nh,snapshot,wasp,04Sep2024pagonh,,,,,,,,,,wasp  ,,,,1,ground,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024pagonh,04Sep2024,pago,nh,N1,Hoverfly,04Sep2024pagonhp1,,,,,,,,Allograpta,,Hoverfly Allograpta ,04Sep2024pagoNHp1,,,1,vegetation,,,p1,yes,Anthriscus dead leaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024pagonh,04Sep2024,pago,nh,N1,wasp,04Sep2024pagonh,,,,,,,,,,wasp  ,,,,1,ground,,,,no,missed; Vespidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,04Sep2024pagonh,04Sep2024,pago,nh,N2,Bee,04Sep2024pagonhp2,,,,,,,,Apis,mellifera,Bee Apis mellifera,04Sep2024pagoNHp2,,,1,Grevillea,lanigera,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagonh,31Jul2024,pago,nh,snapshot,fly,31Jul2024pagonh,,,,,,,,,,fly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagonh,31Jul2024,pago,nh,snapshot,fly,31Jul2024pagonh,,,,,,,,,,fly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagonh,31Jul2024,pago,nh,snapshot,Hoverfly,31Jul2024pagonh,,,,,,,,,,Hoverfly  ,,,,1,Achillea,millefolium,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagonh,31Jul2024,pago,nh,N1,fly,31Jul2024pagonhp1,,,,,,,,,,fly  ,31Jul2024pagoNHp1,,,1,Achillea,millefolium,,p1,yes,Tachinidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagonh,31Jul2024,pago,nh,N1,fly,31Jul2024pagonhp2,,,,,,,,,,fly  ,31Jul2024pagoNHp2,,,1,Eriogonum,latifolium,,p2,yes,Tachinidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagonh,31Jul2024,pago,nh,N1,Bee,31Jul2024pagonhs1,,,,,,,,"small,dark",,"Bee small,dark ",,,,1,Achillea,millefolium,,s1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,31Jul2024pagonh,31Jul2024,pago,nh,N2,,31Jul2024pagonh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofh,05Jun2024,poof,h,snapshot,,05Jun2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofh,05Jun2024,poof,h,N1,,05Jun2024poofh,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofh,05Jun2024,poof,h,N2,Bee,05Jun2024poofhp1,,,,,,,,Apis,mellifera,Bee Apis mellifera,,,,1,vegetation,,,p1,yes,Cistus; hover around bush,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofnh,05Jun2024,poof,nh,snapshot,Hoverfly,05Jun2024poofnh,,,,,,,,,,Hoverfly  ,,,,2,Sonchus,oleraceus,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofnh,05Jun2024,poof,nh,N1,Hoverfly,05Jun2024poofnhp1,,,,,,,,Allograpta,,Hoverfly Allograpta ,05Jun2024poofNHp1,,,1,Sonchus,oleraceus,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofnh,05Jun2024,poof,nh,N1,Hoverfly,05Jun2024poofnhp2,,,,,,,,Cheilosia,,Hoverfly Cheilosia ,05Jun2024poofNHp2,,,1,Vicia ,sativa,,p2,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofnh,05Jun2024,poof,nh,N1,Hoverfly,05Jun2024poofnhp3,,,,,,,,Cheilosia,,Hoverfly Cheilosia ,05Jun2024poofNHp3,,,1,,,,p3,yes,hover around plot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofnh,05Jun2024,poof,nh,N1,Bee,05Jun2024poofnhp4,,,,,,,,Apis,mellifera,Bee Apis mellifera,05Jun2024poofNHp4,,,1,vegetation,,,p4,yes,Fragaria chiloenses - on foliage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofnh,05Jun2024,poof,nh,N2,Hoverfly,05Jun2024poofnhp5,,,,,,,,Cheilosia,,Hoverfly Cheilosia ,05Jun2024poofNHp5,,,1,Vicia ,sativa,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofc,05Jun2024,poof,c,snapshot,,05Jun2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofc,05Jun2024,poof,c,N1,,05Jun2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,05Jun2024poofc,05Jun2024,poof,c,N2,,05Jun2024poofc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Jun2024mpsuh,12Jun2024,mpsu,h,snapshot,Bee,12Jun2024mpsuh,,,,,,,,Bombus,,Bee Bombus ,,,,1,Horkelia,californica,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Jun2024mpsuh,12Jun2024,mpsu,h,N1,Hoverfly,12Jun2024mpsuhp1,,,,,,,,Syritta,,Hoverfly Syritta ,12Jun2024mpsuHp1,,,1,Horkelia,californica,,p1,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Jun2024mpsuh,12Jun2024,mpsu,h,N1,Bee,12Jun2024mpsuhp2,,,,,,,,Bombus,caliginosus,Bee Bombus caliginosus,12Jun2024mpsuHp2,,female,1,Horkelia,californica,,p2,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Jun2024mpsuh,12Jun2024,mpsu,h,N1,Bee,12Jun2024mpsuhp3,,,,,,,,Apis,mellifera,Bee Apis mellifera,12Jun2024mpsuHp3,,,1,Horkelia,californica,,p3,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Jun2024mpsuh,12Jun2024,mpsu,h,N2,Bee,12Jun2024mpsuh,,,,,,,,Bombus,,Bee Bombus ,,,,1,Horkelia,californica,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Jun2024mpsuh,12Jun2024,mpsu,h,N2,Bee,12Jun2024mpsuh,,,,,,,,Bombus,,Bee Bombus ,,,,1,Horkelia,californica,,,no,missed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Jun2024mpsuh,12Jun2024,mpsu,h,N2,Bee,12Jun2024mpsuhp4,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,12Jun2024mpsuHp4,,male,1,Horkelia,californica,,p4,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,12Jun2024mpsuh,12Jun2024,mpsu,h,N2,Bee,12Jun2024mpsuhp5,,,,,,,,Bombus,vos/calig,Bee Bombus vos/calig,12Jun2024mpsuHp5,,male,1,Horkelia,californica,,p5,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jun2024mpsuc,10Jun2024,mpsu,c,snapshot,,10Jun2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jun2024mpsuc,10Jun2024,mpsu,c,N1,,10Jun2024mpsuc,,,,,,,,,,  ,,,,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DG,10Jun2024mpsuc,10Jun2024,mpsu,c,N2,Hoverfly,10Jun2024mpsucp1,,,,,,,,Platycheirus,,Hoverfly Platycheirus ,10Jun2024mpsuCp1,,,1,Cotoneaster,,,p1,yes,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,  ,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,,,,,,,,,,,NA,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
